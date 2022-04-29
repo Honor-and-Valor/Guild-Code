@@ -253,12 +253,12 @@ The Honor and Valor Statutes at Large shall consist of all the laws and concurre
 ## CHATPER 3—CODE OF LAWS OF HONOR AND VALOR AND SUPPLEMENTS
 
 ### §201. Preparation and publication of Codes and Supplements
-There shall be prepared and published under the supervision of the House-
+There shall be prepared and published under the supervision of the House—
 1. A supplement for each session of the House to the then current edition of the Code of Laws of Honor and Valor, cumulatively embracing the legislation of the then current supplement, and correcting errors in such edition and supplement;
 2. New editions of the Code of Laws of Honor and Valor, correcting errors and incorporating the then current supplement. In the case of each code new editions shall not be published oftener than once in each three months. Copies of each such edition shall be distributed in the same manner as provided in the case of supplements to the code of which it is a new edition. Supplements published after any new edition shall not contain the legislation of supplements published before such new edition.
 
 ### §202. Codes and Supplements as evidence of the laws of Honor and Valor; citation of Codes and Supplements
-In all courts, tribunals, and public offices of Honor and Valor-
+In all courts, tribunals, and public offices of Honor and Valor—
 1. The matter set forth in the edition of the Code of Laws of Honor and Valor current at any time shall, together with the then current supplement, if any, establish prima facie the laws of Honor and Valor, general and permanent in their nature, in force on the day preceding the commencement of the session following the last session the legislation of which is included: Provided, however, That whenever titles of such Code shall have been enacted into positive law the text thereof shall be legal evidence of the laws therein contained.
 2. Supplements to the Code of Laws of Honor and Valor may be cited as "H.V.C., Sup.  ", the blank in each case being filled with Roman figures denoting the number of the supplement.
 3. New editions of each of such codes may be cited as "H.V.C.,  ed.", the blank in each case being filled with figures denoting the last year the legislation of which is included in whole or in part.
