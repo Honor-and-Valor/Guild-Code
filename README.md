@@ -1,5 +1,3 @@
-Honor and Valor Code
-
 - [Front Matter](#front-matter)
   - [Organic Laws](#organic-laws)
     - [The Litany of Honor and Valor](#the-litany-of-honor-and-valor)
