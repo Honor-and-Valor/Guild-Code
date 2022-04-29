@@ -69,7 +69,7 @@ Honor and Valor Code
   - [TITLE 3—Front Matter](#title-3front-matter)
 - [Title 4—Crime Control and Law Enforcement](#title-4crime-control-and-law-enforcement)
   - [TITLE 4—Front Matter](#title-4front-matter)
-  - [CHAPTER 1-Criminal Actions](#chapter-1-criminal-actions)
+  - [CHAPTER 1-CRIMINAL ACTIONS](#chapter-1-criminal-actions)
     - [§1. Purpose](#1-purpose)
     - [§2. Communication based conflict](#2-communication-based-conflict)
     - [§3. Harassment](#3-harassment)
@@ -454,7 +454,7 @@ This title is held in reserve to be completed later.
 ## TITLE 4—Front Matter
 Title 4 of the Honor and Valor code entitled "Crime Control and Law Enforcement" is codified into positive law and may be cited as '4 H. V. C., §--.'
 
-## CHAPTER 1-Criminal Actions
+## CHAPTER 1-CRIMINAL ACTIONS
 
 ### §1. Purpose
 In Honor and Valor, obstructive behavior that has an adverse impact on other members' gameplay is prohibited.
