@@ -67,7 +67,7 @@
   - [TITLE 3—Front Matter](#title-3front-matter)
 - [Title 4—Crime Control and Law Enforcement](#title-4crime-control-and-law-enforcement)
   - [TITLE 4—Front Matter](#title-4front-matter)
-  - [CHAPTER 1-CRIMINAL ACTIONS](#chapter-1-criminal-actions)
+  - [CHAPTER 1—CRIMINAL ACTIONS](#chapter-1criminal-actions)
     - [§1. Purpose](#1-purpose)
     - [§2. Communication based conflict](#2-communication-based-conflict)
     - [§3. Harassment](#3-harassment)
@@ -82,9 +82,9 @@
   - [TITLE 5—Front Matter](#title-5front-matter)
 - [Title 6—Citizenship](#title-6citizenship)
   - [TITLE 6—Front Matter](#title-6front-matter)
-  - [CHAPTER 1-PATHS TO CITIZENSHIP](#chapter-1-paths-to-citizenship)
+  - [CHAPTER 1—PATHS TO CITIZENSHIP](#chapter-1paths-to-citizenship)
     - [§1. Raiding](#1-raiding)
-  - [CHAPTER 2-LOSS OF CITIZENSHIP](#chapter-2-loss-of-citizenship)
+  - [CHAPTER 2—LOSS OF CITIZENSHIP](#chapter-2loss-of-citizenship)
     - [§101. Renunciation of Citizenship](#101-renunciation-of-citizenship)
     - [§102. Loss of Citizenship](#102-loss-of-citizenship)
 - [Title 7—Raiding](#title-7raiding)
@@ -452,7 +452,7 @@ This title is held in reserve to be completed later.
 ## TITLE 4—Front Matter
 Title 4 of the Honor and Valor code entitled "Crime Control and Law Enforcement" is codified into positive law and may be cited as '4 H. V. C., §--.'
 
-## CHAPTER 1-CRIMINAL ACTIONS
+## CHAPTER 1—CRIMINAL ACTIONS
 
 ### §1. Purpose
 In Honor and Valor, obstructive behavior that has an adverse impact on other members' gameplay is prohibited.
@@ -564,12 +564,12 @@ This title is held in reserve to be completed later.
 ## TITLE 6—Front Matter
 Title 6 of the Honor and Valor code entitled "Citizenship" is codified into positive law and may be cited as '6 H. V. C., §--.'
 
-## CHAPTER 1-PATHS TO CITIZENSHIP
+## CHAPTER 1—PATHS TO CITIZENSHIP
 
 ### §1. Raiding
 Those having attended two lockouts worth of progression raiding will be granted citizenship and awarded the rank of Citizen if they do not already possess a higher rank.
 
-## CHAPTER 2-LOSS OF CITIZENSHIP
+## CHAPTER 2—LOSS OF CITIZENSHIP
 
 ### §101. Renunciation of Citizenship
 Those having attained the rank of Citizen that voluntarily choose to give up their citizenship will be demoted to Civilian.
