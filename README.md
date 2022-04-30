@@ -437,7 +437,7 @@ When the Marshal suspends the House, he shall communicate to the House that it i
 He shall include its current list of representatives in his communication for journaling on the floor.
 
 ### §303. Duties of the Marshal when the House is in suspension
-When the House is suspended, the Marshal shall continue to transmit communications to it on its floor as thought it were not, for the purposes of maintaining transparency.
+When the House is suspended, the Marshal shall continue to transmit communications to it on its floor as though it were not, for the purposes of maintaining transparency.
 
 ### §304. Exiting suspension
 When the Marshal resumes the House, this will be considered a representative election triggering event under the terms of section 5 of this title and an election will be scheduled in accordance with it.
