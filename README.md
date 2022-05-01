@@ -6,6 +6,9 @@
       - [Article I](#article-i)
       - [Article II](#article-ii)
       - [Article III](#article-iii)
+      - [Amendment I](#amendment-i)
+        - [Section 1](#section-1)
+        - [Section 2](#section-2)
 - [Title 1—General Provisions](#title-1general-provisions)
   - [TITLE 1—Front Matter](#title-1front-matter)
   - [CHAPTER 1—RULES OF CONSTRUCTION](#chapter-1rules-of-construction)
@@ -164,6 +167,17 @@ No regulations can be exercised against a member of the guild ex post facto.
 The Marshal may appoint any individual within the guild to whom he delegates a portion of his authority to serve as a Commander for such purposes and until such time that the Marshal may decide. Before a Commander enters his office, he shall take the following oath: “I, of my own free will, without coercion, promise, or inducement of any sort, after having been duly advised and warned of the meaning and consequences of this oath, do now enroll in the Raiding or PvP Service of the Guild of Honor and Valor. I swear to uphold and defend the Guild of Honor and Valor against all its enemies, to protect and defend the liberties and privileges of all its citizens and civilians, to perform such duties as may be assigned to me by direct or delegated authority, and to obey all orders of the Marshal of Honor and Valor and of all Commanders or delegated persons placed over me, and to require such obedience from all members of the Service or other persons placed under my orders - and, while remaining in active service or upon being granted inactive retired status, to carry out all duties and obligations and to enjoy the privileges of guild citizenship.”
  
 The Marshal may delegate powers to groups of Veterans and Commanders to act collectively as legislative, executive, or judicial bodies. The Marshal may grant to each body the privilege to determine the rules of its proceedings. Acts of legislative bodies must gain the assent of the Marshal to take effect.
+
+#### Amendment I
+(Ratified on the thirtieth of April 2022)
+
+##### Section 1
+The requirement of attained duration of years since invitation for Veterans of Honor and Valor is hereby repealed.
+
+##### Section 2
+A Veteran may sponsor the invitation of a member of the guild to join the Veterans of Honor and Valor.
+When this occurs, the matter shall be put to a vote of the Veterans of Honor and Valor for a period not exceeding three days.
+If three fourths of those voting are in favor, the sponsored member shall become a Veteran upon taking the oath.
 
 # Title 1—General Provisions
 
