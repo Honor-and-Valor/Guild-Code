@@ -82,7 +82,8 @@
     - [§4c. Fraud](#4c-fraud)
     - [§4d. Impersonation](#4d-impersonation)
     - [§5. Political, religious, commercial, and promotional activities](#5-political-religious-commercial-and-promotional-activities)
-    - [§6. Ignoring a Commander's instructions](#6-ignoring-a-commanders-instructions)
+    - [§6. Breaking the chain that binds](#6-breaking-the-chain-that-binds)
+    - [§7. Ignoring a Commander's instructions](#7-ignoring-a-commanders-instructions)
 - [Title 5—Recruitment](#title-5recruitment)
   - [TITLE 5—Front Matter](#title-5front-matter)
 - [Title 6—Citizenship](#title-6citizenship)
@@ -592,7 +593,17 @@ Charitable projects on behalf of individuals in the guild (e.g. a funding initia
 Where the Corps of Commanders determines a member is in violation of this section, a warning will be issued.
 Once three warnings for violations of this section have been issued and it is violated again, a penalty up to dismissal may be imposed.
 
-### §6. Ignoring a Commander's instructions
+### §6. Breaking the chain that binds
+While Blizzard does maintain a Terms of Service agreement with all its players and a "Social Contract" that vaguely defines behaviors and actions that will prompt their attention when reported to them, this does not mean that they know the members of this guild better than its Commanders do or that they have the resources to properly adjudicate and prosecute violations of their policies.
+Should a member of this guild suffer any damages by another member of this guild that is simultaneously in violation of both a Blizzard policy and the Code of Honor and Valor, the guild asserts the privilege of treating of the matter before Blizzard is notified, i.e. the victim must speak with a Commander first.
+
+The only exception to this regulation is a response to a violation of the Blizzard policy which:
+  * represents an egregious danger to the victim which is incipient or so imminent that the guild cannot respond in an adequately timely manner; or,
+  * represents a threat incommensurate to the guild's enforcement capability (e.g. a real-life, physical danger).
+
+Where the Corps of Commanders determines that a member of the guild has violated this section the violation may result in immediate dismissal.
+
+### §7. Ignoring a Commander's instructions
 If a Commander gives an instruction based on a declaration of the Marshal or this code, failure to follow the instruction is a violation which may carry the penalty of immediate dismissal.
 
 # Title 5—Recruitment
