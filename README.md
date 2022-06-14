@@ -516,15 +516,16 @@ The Commander in Chief:
 * shall be in command of the raiding teams and all other Officers of Honor and Valor;
 * may require the opinion, in writing or in discussion, of any principal officer upon any subject relating to the duties of their respective offices;
 * shall have power to grant reprieves and pardons for offenses against Honor and Valor, except in cases of impeachment;
-* shall have power, by and with the advice and consent of the House, to make treaties, provided two thirds of the Representatives of the House present concur;
+* shall have power, by and with the advice and consent of the House, to make treaties, provided two-thirds of the Representatives of the House present concur;
 * shall appoint, with the advice and consent of the House, all other Officers of Honor and Valor, whose appointments are not herein otherwise provided for, and which shall be established by law;
-* may, on extraorindary occasions, convene the House; and,
-* shall have power to fill up all vacancies that may happen during the recess of the House, by granting commissions which shall expire at the end of their next session.
+* may, on extraordinary occasions, convene the House; and,
+* shall have power to fill up all vacancies that may happen during the recess of the House, by granting commissions that shall expire at the end of their next session.
 
 ### §5. Responsibilities
 The Commander in Chief shall faithfully execute his Office, and will to the best of his ability, preserve, protect, and defend the Litany of Honor and Valor.
 
-He shall from time to time give to the House information of the State of the Guild, and recommend to their consideration such measures as he shall judge necessary and expedient. He shall receive ambassadors and other public ministers from outside the guild, and shall commission all the Officers of Honor and Valor.
+He shall from time to time give to the House information of the State of the Guild, and recommend to their consideration such measures as he shall judge necessary and expedient.
+He shall receive ambassadors and other public ministers from outside the guild, and shall commission all the Officers of Honor and Valor.
 
 He shall guarantee to every member of this guild equal protection under the law, and when the House of Representin' cannot be convened, shall provide for the continuing maintenance and enhancement of the Code of Honor and Valor, although he may delegate the implementation of the same to what legislative clerical services are available.
 
@@ -534,7 +535,7 @@ He shall guarantee to every member of this guild equal protection under the law,
 All Commanders of Honor and Valor may, and those without any other specific delegated authority shall, keep the peace in the guild.
 
 ### §102. Eligibility
-No person except a member of this guild for at least one month shall be elligible to the general office of Commander; neither shall any person be eligible to that office who shall not have attained to the age of twenty years.
+No person except a member of this guild for at least one month shall be eligible to the general office of Commander; neither shall any person be eligible to that office who shall not have attained to the age of twenty years.
 
 ### §103. Enforcement powers
 Except where otherwise provided by law, a Commander when keeping the peace is granted authority and power in limited scope as defined by Chapter 1 of Title 4 of this code.
