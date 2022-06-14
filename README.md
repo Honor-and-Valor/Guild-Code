@@ -70,6 +70,17 @@
     - [§304. Exiting suspension](#304-exiting-suspension)
 - [Title 3—The Corps of Commanders](#title-3the-corps-of-commanders)
   - [TITLE 3—Front Matter](#title-3front-matter)
+  - [CHAPTER 1—THE COMMANDER IN CHIEF](#chapter-1the-commander-in-chief)
+    - [§1. Officer role](#1-officer-role)
+    - [§2. Eligibility](#2-eligibility)
+    - [§3. Removal](#3-removal)
+    - [§4. Executive powers](#4-executive-powers)
+    - [§5. Responsibilities](#5-responsibilities)
+  - [CHAPTER 2—KEEPING THE PEACE](#chapter-2keeping-the-peace)
+    - [§101. Officer role](#101-officer-role)
+    - [§102. Eligibility](#102-eligibility)
+    - [§103. Enforcement powers](#103-enforcement-powers)
+    - [§104. Rule of law](#104-rule-of-law)
 - [Title 4—Crime Control and Law Enforcement](#title-4crime-control-and-law-enforcement)
   - [TITLE 4—Front Matter](#title-4front-matter)
   - [CHAPTER 1—CRIMINAL ACTIONS](#chapter-1criminal-actions)
@@ -112,7 +123,7 @@
   - [CHAPTER 1—THE GUILD BANK](#chapter-1the-guild-bank)
     - [§1. Guild bank reserved items](#1-guild-bank-reserved-items)
   - [CHAPTER 2—THE GUILD BANKER](#chapter-2the-guild-banker)
-    - [§101. Officer role](#101-officer-role)
+    - [§101. Officer role](#101-officer-role-1)
     - [§102. Guild bank configuration](#102-guild-bank-configuration)
     - [§103. Contributions](#103-contributions)
     - [$104. Capital conversion](#104-capital-conversion)
@@ -489,7 +500,48 @@ When the Marshal resumes the House, this will be considered a representative ele
 ## TITLE 3—Front Matter
 Title 3 of the Honor and Valor code entitled "The Corps of Commanders" is codified into positive law and may be cited as '3 H. V. C., §--.'
 
-This title is held in reserve to be completed later.
+## CHAPTER 1—THE COMMANDER IN CHIEF
+
+### §1. Officer role
+The Commander in Chief is an officer role which, when occupied, has been delegated the executive power of the Marshal under Article III of the Litany of Honor and Valor.
+
+### §2. Eligibility
+No person except a member of this guild for at least one year, or a Veteran of Honor and Valor, shall be elligible to the office of Commander in Chief; neither shall any person be eligible to that office who shall not have attained to the age of twenty-five years.
+
+### §3. Removal
+In case of the removal of the Commander in Chief from office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall return to the Marshal of Honor and Valor.
+
+### §4. Executive powers
+The Commander in Chief:
+* shall be in command of the raiding teams and all other Officers of Honor and Valor;
+* may require the opinion, in writing or in discussion, of any principal officer upon any subject relating to the duties of their respective offices;
+* shall have power to grant reprieves and pardons for offenses against Honor and Valor, except in cases of impeachment;
+* shall have power, by and with the advice and consent of the House, to make treaties, provided two thirds of the Representatives of the House present concur;
+* shall appoint, with the advice and consent of the House, all other Officers of Honor and Valor, whose appointments are not herein otherwise provided for, and which shall be established by law;
+* may, on extraorindary occasions, convene the House; and,
+* shall have power to fill up all vacancies that may happen during the recess of the House, by granting commissions which shall expire at the end of their next session.
+
+### §5. Responsibilities
+The Commander in Chief shall faithfully execute his Office, and will to the best of his ability, preserve, protect, and defend the Litany of Honor and Valor.
+
+He shall from time to time give to the House information of the State of the Guild, and recommend to their consideration such measures as he shall judge necessary and expedient. He shall receive ambassadors and other public ministers from outside the guild, and shall commission all the Officers of Honor and Valor.
+
+He shall guarantee to every member of this guild equal protection under the law, and when the House of Representin' cannot be convened, shall provide for the continuing maintenance and enhancement of the Code of Honor and Valor, although he may delegate the implementation of the same to what legislative clerical services are available.
+
+## CHAPTER 2—KEEPING THE PEACE
+
+### §101. Officer role
+All Commanders of Honor and Valor may, and those without any other specific delegated authority shall, keep the peace in the guild.
+
+### §102. Eligibility
+No person except a member of this guild for at least one month shall be elligible to the general office of Commander; neither shall any person be eligible to that office who shall not have attained to the age of twenty years.
+
+### §103. Enforcement powers
+Except where otherwise provided by law, a Commander when keeping the peace is granted authority and power in limited scope as defined by Chapter 1 of Title 4 of this code.
+
+### §104. Rule of law
+No member of this guild, including but not limited to the Representatives of the House, Commanders, the Commander in Chief, any judicial bodies or officers which may be provided for by the Marshal or this code, Veterans of Honor and Valor, and the Marshal are beyond the scope or reach of the law.
+Commanders are required to apply the law to each member of the guild equally.
 
 # Title 4—Crime Control and Law Enforcement
 
