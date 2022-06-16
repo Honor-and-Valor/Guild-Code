@@ -122,8 +122,8 @@
   - [TITLE 8—Front Matter](#title-8front-matter)
   - [CHAPTER 1—THE GUILD BANK](#chapter-1the-guild-bank)
     - [§1. Guild bank reserved items](#1-guild-bank-reserved-items)
-  - [CHAPTER 2—THE GUILD BANKER](#chapter-2the-guild-banker)
-    - [§101. Officer role](#101-officer-role-1)
+  - [CHAPTER 2—ADMINISTRATION](#chapter-2administration)
+    - [§101. Bankers](#101-bankers)
     - [§102. Guild bank configuration](#102-guild-bank-configuration)
     - [§103. Contributions](#103-contributions)
     - [$104. Capital conversion](#104-capital-conversion)
@@ -769,24 +769,24 @@ The following items that drop or are created in raids are reserved for the guild
 * profession training items that do not bind when picked up; and
 * enchanting materials.
 
-## CHAPTER 2—THE GUILD BANKER
+## CHAPTER 2—ADMINISTRATION
 
-### §101. Officer role
-The guild banker is an officer role that shall administrate the guild bank.
+### §101. Bankers
+Veterans and Commanders shall administrate the guild bank.
 
 ### §102. Guild bank configuration
-The guild banker shall determine what the names and icons of the tabs of the guild bank shall be, along with visibility, deposit, withdrawal, and repair allowances for tabs and gold per rank, and the Marshal shall perform the necessary configuration in game to implement them.
+The guild bankers shall determine what the names and icons of the tabs of the guild bank shall be, along with visibility, deposit, withdrawal, and repair allowances for tabs and gold per rank, and the Marshal shall perform the necessary configuration in game to implement them.
 
 ### §103. Contributions
-The guild banker shall determine which items the guild is seeking for deposit and maintain a pinned message in Discord outlining these.
+The guild bankers shall determine which items the guild is seeking for deposit and maintain a pinned message in Discord outlining these.
 
 ### $104. Capital conversion
-1. The guild banker shall convert capital in the guild bank at his discretion by withdrawing items that bind when equipped or used and then deposting:
+1. The guild bankers shall convert capital in the guild bank at their discretion by withdrawing items that bind when equipped or used and then deposting:
    * the revenue of sale of enchanting materials and gems to guild members for use on their main characters at ten percent of fair market value;
    * the revenue of sale of any other items at fair market value;
    * the materials resulting from disenchantment; or,
    * the profit of sale (excluding the fee) at the auction house.
-2. The guild banker shall incorporate planning of which items in stock may be desirable to guild members currently or in the future and conscientiously attempt to maintain supplies instead of converting them when it is reasonable to do so. He shall not have items converted into enchanting materials when their fair market value exceeds the fair market value of the enchanting materials they will most likely yield according to Wowhead. He shall be permitted to expense from the guild bank's gold treasury the auction house deposit costs of items that are not successully sold at auction.
+2. The guild bankers shall incorporate planning of which items in stock may be desirable to guild members currently or in the future and conscientiously attempt to maintain supplies instead of converting them when it is reasonable to do so. They shall not have items converted into enchanting materials when their fair market value exceeds the fair market value of the enchanting materials they will most likely yield according to Wowhead. They shall be permitted to expense from the guild bank's gold treasury the auction house deposit costs of items that are not successully sold at auction.
 
 # Title 9—The Discord Server
 
