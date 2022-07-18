@@ -129,6 +129,24 @@
     - [$104. Capital conversion](#104-capital-conversion)
 - [Title 9—The Discord Server](#title-9the-discord-server)
   - [TITLE 9—Front Matter](#title-9front-matter)
+- [Title 10—Judiciary and Judicial Procedure](#title-10judiciary-and-judicial-procedure)
+  - [TITLE 10—Front Matter](#title-10front-matter)
+  - [CHAPTER 1—THE JUDICIAL POWER](#chapter-1the-judicial-power)
+    - [§1. Delegation by the Marshal](#1-delegation-by-the-marshal)
+    - [§2. Jurisdiction](#2-jurisdiction)
+  - [CHAPTER 2—SUPREME COURT](#chapter-2supreme-court)
+    - [§101. Number of adjudicators; quorum](#101-number-of-adjudicators-quorum)
+    - [§102. Vacancy in office of Chief Adjudicator; disability](#102-vacancy-in-office-of-chief-adjudicator-disability)
+    - [§103. Precedence of associate adjudicators](#103-precedence-of-associate-adjudicators)
+    - [§104. Records of former council of adjudicators](#104-records-of-former-council-of-adjudicators)
+  - [CHAPTER 3—GENERAL PROVISIONS APPLICABLE TO COURTS AND ADJUDICATORS](#chapter-3general-provisions-applicable-to-courts-and-adjudicators)
+    - [§201. Definitions](#201-definitions)
+    - [§202. Courts always open; powers unrestricted by expiration of sessions](#202-courts-always-open-powers-unrestricted-by-expiration-of-sessions)
+    - [§203. Oaths of adjudicators](#203-oaths-of-adjudicators)
+    - [§204. Disqualification of adjudicator](#204-disqualification-of-adjudicator)
+    - [§205. Records; obsolete papers](#205-records-obsolete-papers)
+    - [§206. Relative of adjudicator ineligible to appointment](#206-relative-of-adjudicator-ineligible-to-appointment)
+    - [§207. Administration of oaths and acknowledgments](#207-administration-of-oaths-and-acknowledgments)
 
 # Front Matter
 
@@ -440,36 +458,36 @@ Notwithstanding any other provision of law, no elected official of the legislati
     1. be an agent of a foreign principal;
     2. have any direct personal or pecuniary interest in any legislative measure pending before the House;
     3. be in the employ of or represent any party or organization for the purpose of influencing, directly or indirectly, the passage, defeat, or amendment of any legislative proposal; nor
-    4. have been convicted by a Commander or the Veterans for the commission of a crime in relation to that individual's election to, or service to, the House
+    4. have been convicted by a Commander for the commission of a crime in relation to that individual's election to, or service to, the House
 
 ### §204. Rule 4—Response to Subpoenas
 1. ***Compliance***—
-    1. When a Member of the House is properly served with a Commander's or the Veterans' subpoena or order, such Member shall comply, consistently with the privileges and rights of the House, with the subpoena or order as hereinafter provided, unless otherwise determined under this rule.
+    1. When a Member of the House is properly served with a Commander's subpoena or order, such Member shall comply, consistently with the privileges and rights of the House, with the subpoena or order as hereinafter provided, unless otherwise determined under this rule.
     2. For purposes of this rule, "subpoena or order" means a subpoena or order directing appearance as a witness relating to the official functions of the House or for the production or disclosure of any document relating to the official functions of the House.
 2. ***Notification***—
-    1. Upon receipt of a properly served subpoena or order by a Commander or the Veterans, a Member of the House shall promptly notify the Speaker in writing of its receipt together with either:
-        1. a determination as to whether the issuance of the Commander's or the Veterans' subpoena or order is a proper exercise of jurisdiction and is consistent with the privileges and rights of the House; or
+    1. Upon receipt of a properly served subpoena or order by a Commander, a Member of the House shall promptly notify the Speaker in writing of its receipt together with either:
+        1. a determination as to whether the issuance of the Commander's subpoena or order is a proper exercise of jurisdiction and is consistent with the privileges and rights of the House; or
         2. a statement that such Member of the House intends to make a determination with respect to the matters described in subparagraph (1).
     2. The notification required by paragraph (1) shall promptly be laid before the House by the Speaker.
 3. ***Copies***—
-    1. Except as specified in paragraph (2) or otherwise ordered by the House, upon notification to the House that a Commander's or the Veterans' subpoena or order is a proper exercise of jurisdiction and is consistent with the privileges and rights of the House, the Member of the House shall comply with the judicial subpoena or order by supplying copies.
+    1. Except as specified in paragraph (2) or otherwise ordered by the House, upon notification to the House that a Commander's subpoena or order is a proper exercise of jurisdiction and is consistent with the privileges and rights of the House, the Member of the House shall comply with the judicial subpoena or order by supplying copies.
     2. Under no circumstances may minutes or transcripts of executive sessions, or evidence of witnesses in respect thereto, be disclosed or copied. During a period of recess or adjournment of longer than three days, the Speaker may authorize compliance or take such other action as the Speaker considers appropriate under the circumstances. Upon the reconvening of the House, all matters that transpired under this clause shall promptly be laid before the House by the Speaker.
-4. Nothing in this rule shall be construed to deprive, condition, or waive the legal privileges or rights under the Litany or as granted by the Marshal in constituting this body applicable or available at any time to a Member of the House, or of the House itself, or the right of such Member of the House itself, to assert such privileges or rights before a Commander or the Veterans of Honor and Valor.
+4. Nothing in this rule shall be construed to deprive, condition, or waive the legal privileges or rights under the Litany or as granted by the Marshal in constituting this body applicable or available at any time to a Member of the House, or of the House itself, or the right of such Member of the House itself, to assert such privileges or rights before a Commander of Honor and Valor.
 
 ### §205. Rule 5—Code of Official Conduct
 There is hereby established by and for the House the following code of conduct, to be known as the "Code of Official Conduct":
 1. A Member of the House shall behave at all times in a manner that shall reflect creditably on the House.
 2. A Member of the House shall adhere to the spirit and the letter of the Rules of the House.
 3. A Member of the House may not receive compensation and may not permit compensation to accrue to the beneficial interest of such individual from any source, the receipt of which would occur by virtue of influence improperly exerted from the position of such individual in the House.
-4. A Member who has been convicted by a Commander or the Veterans for the commission of a crime should refrain from participation in the business of or voting on the Floor of the House, unless or until Commander, Veteran, or Marshal proceedings result in reinstatement of the presumption of the innocence of such Member or until the Member is reelected to the House after the date of such conviction.
+4. A Member who has been convicted by a Commander for the commission of a crime should refrain from participation in the business of or voting on the Floor of the House, unless or until Commander, Veteran, or Marshal proceedings result in reinstatement of the presumption of the innocence of such Member or until the Member is reelected to the House after the date of such conviction.
 5. Before a Member of the House may have access to classified information, the following oath (or affirmation) shall be executed: "I do solemnly swear (or affirm) that I will not disclose any classified information received in the course of my service with the House of Represent'n, except as authorized by the House of Represent'n or in accordance with its Rules." The Speaker shall make the signatories a matter of public record, causing the names of each Member who has signed the oath during a week (if any) to be published in the channel for enrolled bills.
 6. A Member may not, with the intent to influence the recipient of items looted in raids or crafted with guild materials—
     1. take or withhold, or offer or threaten to take or withhold, an official act; or
     2. influence, or offer or threaten to influence, the official act of another.
 7. A Member may not condition the inclusion of language to provide benefit in any bill or resolution (or an accompanying report) on any vote cast by another Member.
-8. A Member of the House may not, directly or indirectly, take any actions to prevent any individual from or retaliate against any individual for providing truthful information to the House when engaged in an ethics investigation, or a Commander or the Veterans, provided that the disclosure of such information is not otherwise prohibited by law or House rules.
+8. A Member of the House may not, directly or indirectly, take any actions to prevent any individual from or retaliate against any individual for providing truthful information to the House when engaged in an ethics investigation, or a Commander, provided that the disclosure of such information is not otherwise prohibited by law or House rules.
 9. ***Whistleblowers***—
-    1. Except as provided in paragraphs (2) and (3), a Member of the House shall not knowingly and willfully disclose publicly the identity of, or personally identifiable information about, any individual who has reported allegations of possible wrongdoing, including retaliation, under processes and protections provided by Commanders or the Veterans or any law that establishes the right for individuals to make protected disclosures to the House.
+    1. Except as provided in paragraphs (2) and (3), a Member of the House shall not knowingly and willfully disclose publicly the identity of, or personally identifiable information about, any individual who has reported allegations of possible wrongdoing, including retaliation, under processes and protections provided by Commanders or any law that establishes the right for individuals to make protected disclosures to the House.
     2. The limitation in paragraph (1) shall not apply to any disclosure of an individual's identity or personally identifiable information if—
         1. the individual has provided express written consent prior to such disclosure;
         2. the individual has already voluntarily and publicly disclosed their identity; or
@@ -651,7 +669,7 @@ Should a member of this guild suffer any damages by another member of this guild
 * treating of the matter first (i.e. the victim must report the matter to the Corps of Commanders before any other authority); and,
 * treating of the matter finally (i.e. the victim must secure permission from the Corps of Commanders to notify any other authority of any matters the Corps of Commanders has already considered, whether or not the offender was actioned by the guild in any way).
 
-The members of this guild by way of accepting an invite agree to submit all disputes arising under this section to arbitration by the Corps of Commanders, but shall have the privilege of appealing the decision of the same once per arbitration to the Council of Veterans.
+The members of this guild by way of accepting an invite agree to submit all disputes arising under this section to arbitration by the Supreme Court of Honor and Valor.
 The privilege of arbitration and the appeal thereof shall survive dismissal subsequent to having been found guilty of violating this section and includes the possibility of the reversal of any punitive action taken by the guild which is reversible.
 No member of this guild shall challenge the guild's jurisdiction or venue as provided in this section before any other authority.
 
@@ -729,7 +747,7 @@ The following types of items are random rolled to members of the raid eligible t
 ## CHAPTER 2—PROGRESSION
 
 ### §101. Progression instances
-1. When the House resolves that an instance is a progresion raid, the Marshal is hereby authorized and directed to employ the entire Raiding Service of the Guild of Honor and Valor and the resources of the guild to carry on war against the named aggressors of the instance; and, to bring the conflict to a successful termination, all the resources of the guild are pledged by the House of Represent’n of the Guild of Honor and Valor.
+1. When the House resolves that an instance is a progresion raid, the Marshal is hereby authorized and directed to employ the entire Raiding Service of the Guild of Honor and Valor and the resources of the guild to carry on war against the named aggressors of the instance; and, to bring the conflict to a successful termination, all the resources of the guild are pledged by the House of Represent'n of the Guild of Honor and Valor.
 2. The House has resolved that the following instances are progression raids:
     * Karazhan (resolved 9 Jun, 2021)
     * Gruul's Lair (resolved 22 Jun, 2021)
@@ -794,3 +812,82 @@ The guild bankers shall determine which items the guild is seeking for deposit a
 Title 9 of the Honor and Valor code entitled "The Discord Server" is codified into positive law and may be cited as '9 H. V. C., §--.'
 
 This title is held in reserve to be completed later.
+
+# Title 10—Judiciary and Judicial Procedure
+
+## TITLE 10—Front Matter
+Title 10 of the Honor and Valor code entitled "Judiciary and Judicial Procedure" is codified into positive law and may be cited as '10 H. V. C., §--.'
+
+## CHAPTER 1—THE JUDICIAL POWER
+
+### §1. Delegation by the Marshal
+The judicial power of the Marshal of Honor and Valor as indicated by Article III of the Litany shall be vested in one Supreme Court, and in such inferior courts as the House my from time to time ordain and establish.
+The adjudicators serving on the Supreme Court shall hold their offices during good behavior.
+
+### §2. Jurisdiction
+The judicial power shall extend to all cases, in law and equity, arising under the Litany of Honor and Valor, the Code of Honor and Valor, and treaties made, or which shall be made, under their authority; to all cases affecting ambassadors, other public ministers and consuls; to controversies to which the guild shall be a party; and between members of the guild and foreign guilds, groups, or players.
+
+In all cases affecting foreign parties the Supreme Court shall have jurisdiction.
+In all the other cases before mentioned, the Supreme Court shall have jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the House shall make.
+
+## CHAPTER 2—SUPREME COURT
+
+### §101. Number of adjudicators; quorum
+The Supreme Court of Honor and Valor shall consist of a Chief Adjudicator of Honor and Valor and as many associate adjudicators as the Marshal and the House may direct by appointment and confirmation, any two-thirds of whom shall constitute a quorum.
+
+### §102. Vacancy in office of Chief Adjudicator; disability
+Whenever the Chief Adjudicator is unable to perform the duties of his office or the office is vacant, his powers and duties shall devolve upon the associate adjudicator next in precedence who is able to act, until such disability is removed or another Chief Adjudicator is appointed and duly qualified.
+
+### §103. Precedence of associate adjudicators
+Associate adjudicators shall have precedence according to the seniority of their commissions.
+Adjudicators whose commissions bear the same date shall have precedence according to seniority in age.
+
+### §104. Records of former council of adjudicators
+The records and proceedings of the council of adjudicators, appointed previous to the release of Burning Crusade Classic, shall be kept in Discord until deposited with the Department of Archives & Records of the Guild of Honor and Valor, which shall furnish copies thereof to any person requiring them, in the manner provided by law for giving copies of the records and proceedings of the Supreme Court.
+Such copies shall have the same faith and credit as proceedings of the Supreme Court.
+
+## CHAPTER 3—GENERAL PROVISIONS APPLICABLE TO COURTS AND ADJUDICATORS
+
+### §201. Definitions
+As used in this title:
+
+The term “court of Honor and Valor” includes the Supreme Court of Honor and Valor, courts of appeals, courts constituted by law, including any court created by Act of the House the adjudicators of which are entitled to hold office during good behavior.
+
+The term “adjudicator of Honor and Valor” includes the Chief Adjudicator of Honor and Valor and adjudicators of any court created by Act of the House, the adjudicators of which are entitled to hold office during good behavior.
+
+### §202. Courts always open; powers unrestricted by expiration of sessions
+All courts of Honor and Valor shall be deemed always open for the purpose of filing proper papers, issuing and returning process, and making motions and orders.
+
+The continued existence or expiration of a session of a court in no way affects the power of the court to do any act or take any proceeding.
+
+### §203. Oaths of adjudicators
+Each adjudicator of Honor and Valor shall take the following oath or affirmation in addition to that required by the Litany before performing the duties of his office: “I do solemnly swear (or affirm) that I will administer justice without respect to persons, and do equal right to the poor and to the rich of power, skill, and popularity, and that I will faithfully and impartially discharge and perform all the duties incumbent upon me as a judicial officer under the Litany and laws of the guild of Honor and Valor.”
+
+### §204. Disqualification of adjudicator
+1. Any adjudicator of Honor and Valor shall disqualify himself in any proceeding in which his impartiality might reasonably be questioned.
+2. He shall also disqualify himself in the following circumstances:
+   1. Where he has a personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;
+   2. He knows that he, individually or his relative, has any interest that could be substantially affected by the outcome of the proceeding;
+   3. He or his relative, or a person within the third degree of relationship to either of them, or the relative of such a person:
+      1. Is a party to the proceeding, or an officer, director, or trustee of a party;
+      2. Is acting as counsel in the proceeding;
+      3. Is known by the adjudicator to have an interest that could be substantially affected by the outcome of the proceeding;
+      4. Is to the adjudicator's knowledge likely to be a material witness in the proceeding.
+3. An adjudicator should inform himself about his personal interests, and make a reasonable effort to inform himself about the personal interests of his relatives.
+4. For the purposes of this section the following words or phrases shall have the meaning indicated:
+   1. “proceeding” includes pretrial, trial, appellate review, or other stages of litigation;
+   2. the degree of relationship is calculated according to the civil law system of the United States;
+   3. “interest” means standing to gain something personally, however small.
+5. No adjudicator shall accept from the parties to the proceeding a waiver of any ground for disqualification enumerated in subsection 2. Where the ground for disqualification arises only under subsection 1, waiver may be accepted provided it is preceded by a full disclosure on the record of the basis for disqualification.
+6. Notwithstanding the preceding provisions of this section, if any adjudicator to whom a matter has been assigned would be disqualified, after substantial judicial time has been devoted to the matter, because of the appearance or discovery, after the matter was assigned to him or her, that he or she individually, or his relative, has an interest in a party (other than an interest that could be substantially affected by the outcome), disqualification is not required if the adjudicator or relative, as the case may be, divests himself or herself of the interest that provides the grounds for the disqualification.
+
+### §205. Records; obsolete papers
+The records of courts shall be kept in a repository similar to if not the same as that of the guild code.
+
+Papers of any court established by Act of the House which have become obsolete and are no longer necessary or useful, may be disposed of with the approval of the court concerned in an appropriate manner.
+
+### §206. Relative of adjudicator ineligible to appointment
+No person shall be appointed to or employed in any office or duty in any court who is related by affinity or consanguinity within the degree of first cousin to any adjudicator of such court.
+
+### §207. Administration of oaths and acknowledgments
+Each adjudicator of Honor and Valor may administer oaths and affirmations and take acknowledgments.
