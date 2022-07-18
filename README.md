@@ -890,4 +890,4 @@ Papers of any court established by Act of the House which have become obsolete a
 No person shall be appointed to or employed in any office or duty in any court who is related by affinity or consanguinity within the degree of first cousin to any adjudicator of such court.
 
 ### §207. Administration of oaths and acknowledgments
-Each adjudicator of the United States may administer oaths and affirmations and take acknowledgments.
+Each adjudicator of Honor and Valor may administer oaths and affirmations and take acknowledgments.
