@@ -139,7 +139,7 @@
     - [§102. Vacancy in office of Chief Adjudicator; disability](#102-vacancy-in-office-of-chief-adjudicator-disability)
     - [§103. Precedence of associate adjudicators](#103-precedence-of-associate-adjudicators)
     - [§104. Records of former council of adjudicators](#104-records-of-former-council-of-adjudicators)
-  - [CHAPTER 3—GENERAL PROVISIONS APPLICABLE TO COURTS AND JUDGES](#chapter-3general-provisions-applicable-to-courts-and-judges)
+  - [CHAPTER 3—GENERAL PROVISIONS APPLICABLE TO COURTS AND ADJUDICATORS](#chapter-3general-provisions-applicable-to-courts-and-adjudicators)
     - [§201. Definitions](#201-definitions)
     - [§202. Courts always open; powers unrestricted by expiration of sessions](#202-courts-always-open-powers-unrestricted-by-expiration-of-sessions)
     - [§203. Oaths of adjudicators](#203-oaths-of-adjudicators)
@@ -846,7 +846,7 @@ Adjudicators whose commissions bear the same date shall have precedence accordin
 The records and proceedings of the council of adjudicators, appointed previous to the release of Burning Crusade Classic, shall be kept in Discord until deposited with the Department of Archives & Records of the Guild of Honor and Valor, which shall furnish copies thereof to any person requiring them, in the manner provided by law for giving copies of the records and proceedings of the Supreme Court.
 Such copies shall have the same faith and credit as proceedings of the Supreme Court.
 
-## CHAPTER 3—GENERAL PROVISIONS APPLICABLE TO COURTS AND JUDGES
+## CHAPTER 3—GENERAL PROVISIONS APPLICABLE TO COURTS AND ADJUDICATORS
 
 ### §201. Definitions
 As used in this title:
