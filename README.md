@@ -728,6 +728,7 @@ The raid date on softres.it shall not be set so that members may denote and late
     * Naxxramas (Wrath of the Lich King, 25-man) (resolved 12 Aug, 2022)
     * The Obsidian Sanctum (25-man) (resolved 12 Aug, 2022)
     * The Eye of Eternity (25-man) (resolved 12 Aug, 2022)
+    * Vault of Archavon (25-man) (resolved 12 Aug, 2022)
 3. The House has resolved that the following instances are no longer progression raids:
     * Karazhan (resolved 18 Jul, 2021)
     * Gruul's Lair (resolved 28 Apr, 2022)
