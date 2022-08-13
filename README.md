@@ -763,7 +763,7 @@ Raid leaders are required to post a sign-up for guild members to sign up for the
 
 ### §203. Loot governance
 Raid leaders shall ensure there is a master looter implementing the raid's loot system.
-When a raid is of an instance that is not considered progression under the terms of section 101, the raid leader shall determine what loot system to use.
+When a raid is of an encounter or instance that is not considered progression under the terms of section 101, the raid leader shall determine what loot system to use.
 The loot system to be used must be determined and fixed prior to the scheduling of a raid.
 
 ### §204. Disenchanting
