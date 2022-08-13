@@ -743,7 +743,7 @@ The raid date on softres.it shall not be set so that members may denote and late
     * Karazhan (resolved 9 Jun, 2021)
     * Gruul's Lair (resolved 22 Jun, 2021)
     * Hellfire Citadel (resolved 22 Jun, 2021)
-    * Naxxramas (Wrath of the Lich King, 25-man) (resolved 12 Aug, 2022)
+    * Naxxramas (Wrath of the Lich King, 25-man) (resolved 13 Aug, 2022)
     * The Obsidian Sanctum (25-man) (resolved 13 Aug, 2022)
     * The Eye of Eternity (25-man) (resolved 13 Aug, 2022)
     * Vault of Archavon (25-man) (resolved 13 Aug, 2022)
