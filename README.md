@@ -70,7 +70,7 @@
     - [§304. Exiting suspension](#304-exiting-suspension)
 - [Title 3—The Corps of Commanders](#title-3the-corps-of-commanders)
   - [TITLE 3—Front Matter](#title-3front-matter)
-  - [CHAPTER 1—THE COMMANDER IN CHIEF](#chapter-1the-commander-in-chief)
+  - [CHAPTER 1—THE COMMANDER-IN-CHIEF](#chapter-1the-commander-in-chief)
     - [§1. Officer role](#1-officer-role)
     - [§2. Eligibility](#2-eligibility)
     - [§3. Removal](#3-removal)
@@ -109,7 +109,6 @@
   - [CHAPTER 1—LOOT SYSTEM](#chapter-1loot-system)
     - [§1. Soft reservation](#1-soft-reservation)
     - [§2. Looting](#2-looting)
-    - [§3. Exceptions to normal looting](#3-exceptions-to-normal-looting)
   - [CHAPTER 2—PROGRESSION](#chapter-2progression)
     - [§101. Progression instances](#101-progression-instances)
   - [CHAPTER 3—RAID GROUPS](#chapter-3raid-groups)
@@ -518,19 +517,19 @@ When the Marshal resumes the House, this will be considered a representative ele
 ## TITLE 3—Front Matter
 Title 3 of the Honor and Valor code entitled "The Corps of Commanders" is codified into positive law and may be cited as '3 H. V. C., §--.'
 
-## CHAPTER 1—THE COMMANDER IN CHIEF
+## CHAPTER 1—THE COMMANDER-IN-CHIEF
 
 ### §1. Officer role
-The Commander in Chief is an officer role which, when occupied, has been delegated the executive power of the Marshal under Article III of the Litany of Honor and Valor.
+The Commander-in-chief is an officer role which, when occupied, has been delegated the executive power of the Marshal under Article III of the Litany of Honor and Valor.
 
 ### §2. Eligibility
-No person except a member of this guild for at least one year, or a Veteran of Honor and Valor, shall be elligible to the office of Commander in Chief; neither shall any person be eligible to that office who shall not have attained to the age of twenty-five years.
+No person except a member of this guild for at least one year, or a Veteran of Honor and Valor, shall be elligible to the office of Commander-in-chief; neither shall any person be eligible to that office who shall not have attained to the age of twenty-five years.
 
 ### §3. Removal
-In case of the removal of the Commander in Chief from office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall return to the Marshal of Honor and Valor.
+In case of the removal of the Commander-in-chief from office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall return to the Marshal of Honor and Valor.
 
 ### §4. Executive powers
-The Commander in Chief:
+The Commander-in-chief:
 * shall be in command of the raiding teams and all other Officers of Honor and Valor;
 * may require the opinion, in writing or in discussion, of any principal officer upon any subject relating to the duties of their respective offices;
 * shall have power to grant reprieves and pardons for offenses against Honor and Valor, except in cases of impeachment;
@@ -540,7 +539,7 @@ The Commander in Chief:
 * shall have power to fill up all vacancies that may happen during the recess of the House, by granting commissions that shall expire at the end of their next session.
 
 ### §5. Responsibilities
-The Commander in Chief shall faithfully execute his Office, and will to the best of his ability, preserve, protect, and defend the Litany of Honor and Valor.
+The Commander-in-chief shall faithfully execute his Office, and will to the best of his ability, preserve, protect, and defend the Litany of Honor and Valor.
 
 He shall from time to time give to the House information of the State of the Guild, and recommend to their consideration such measures as he shall judge necessary and expedient.
 He shall receive ambassadors and other public ministers from outside the guild, and shall commission all the Officers of Honor and Valor.
@@ -559,7 +558,7 @@ No person except a member of this guild for at least one month shall be eligible
 Except where otherwise provided by law, a Commander when keeping the peace is granted authority and power in limited scope as defined by Chapter 1 of Title 4 of this code.
 
 ### §104. Rule of law
-No member of this guild, including but not limited to the Representatives of the House, Commanders, the Commander in Chief, any judicial bodies or officers which may be provided for by the Marshal or this code, Veterans of Honor and Valor, and the Marshal are beyond the scope or reach of the law.
+No member of this guild, including but not limited to the Representatives of the House, Commanders, the Commander-in-chief, any judicial bodies or officers which may be provided for by the Marshal or this code, Veterans of Honor and Valor, and the Marshal are beyond the scope or reach of the law.
 Commanders are required to apply the law to each member of the guild equally.
 
 # Title 4—Crime Control and Law Enforcement
@@ -725,33 +724,29 @@ Title 7 of the Honor and Valor code entitled "Raiding" is codified into positive
 ## CHAPTER 1—LOOT SYSTEM
 
 ### §1. Soft reservation
-Raid leaders shall configure an event using the softres.it web site and require members attending to enroll in the raid and select one to many items to soft reserve. The event shall be configured to disclose all soft reservations already made, if applicable.
+When an encounter or instance is declared as progression under the terms of section 101, the Commander-in-chief or his designee shall post a link to the softres.it web site for that encounter or instance and pin it in a channel in Discord specifically created for auditing progression loot.
+This channel shall be visible to all members of the guild, although only those having the Commander rank or higher will be able to post in it.
+The raid date on softres.it shall not be set so that members may denote and later revise what loot they are seeking from that encounter or instance.
 
 ### §2. Looting
-1. Only guild raids for instances that the House has resolved to be progression raids are governed by the loot system.
+1. Only guild raids for encounters or instances that the House has resolved to be progression raids are governed by the loot system.
 2. Guild raids are master looted with a loot quality threshold of epic.
-3. When a drop containing items that bind when picked-up occurs, the master looter will announce all the items that dropped.
-4. For each item that binds when picked up in the drop, the master looter will allow members that have soft reserved it to roll. If a member rolls, the highest roller shall win the item. If no members roll, the master looter will allow members who will use it in their main spec to roll. If a member rolls, the highest roller shall win the item. If no members roll, the master looter will allow members who will use it in an off spec to roll. If a member rolls, the highest roller shall win the item. If no members roll, the item will be master looted to an enchanter to be disenchanted, or to anyone to be vendored if no enchanters are present. The outcome of either disenchanting or vendoring shall be deposited in the guild bank.
-
-### §3. Exceptions to normal looting
-The following types of items are random rolled to members of the raid eligible to use them, bypassing the regulations established by section 2:
-* designs;
-* formulas;
-* manuals;
-* mounts;
-* patterns;
-* plans;
-* recipes; and,
-* schematics.
+3. For each raid, the raid leader shall designate at least three persons in the guild, potentially including himself, to serve as the raid's loot council. The master looter shall be a member of the loot council.
+4. When a drop containing items that bind when picked-up occurs, the raid's loot council shall review the softres.it raid to determine which members of the raid are interested in the item and the audit log of items thus far distributed, and deliberate upon whom shall receive it. The raid leader may direct the master looter to loot items to himself in order that they may be traded to the designated recipient later should he feel raiding efficiency will benefit from it.
+5. When the loot council arrives at a majority opinion regarding a particular item, the item will be distributed to the member selected, the softres.it raid will be amended to strike the item from that raid member's desired items, and the distribution will be transcribed in the audit log.
 
 ## CHAPTER 2—PROGRESSION
 
 ### §101. Progression instances
-1. When the House resolves that an instance is a progresion raid, the Marshal is hereby authorized and directed to employ the entire Raiding Service of the Guild of Honor and Valor and the resources of the guild to carry on war against the named aggressors of the instance; and, to bring the conflict to a successful termination, all the resources of the guild are pledged by the House of Represent'n of the Guild of Honor and Valor.
+1. When the House resolves that an encounter or instance is a progresion raid, the Commander-in-chief is hereby authorized and directed to employ the entire Raiding Service of the Guild of Honor and Valor and the resources of the guild to carry on war against the named aggressors of the instance; and, to bring the conflict to a successful termination, all the resources of the guild are pledged by the House of Represent’n of the Guild of Honor and Valor.
 2. The House has resolved that the following instances are progression raids:
     * Karazhan (resolved 9 Jun, 2021)
     * Gruul's Lair (resolved 22 Jun, 2021)
     * Hellfire Citadel (resolved 22 Jun, 2021)
+    * Naxxramas (Wrath of the Lich King, 25-man) (resolved 12 Aug, 2022)
+    * The Obsidian Sanctum (25-man) (resolved 13 Aug, 2022)
+    * The Eye of Eternity (25-man) (resolved 13 Aug, 2022)
+    * Vault of Archavon (25-man) (resolved 13 Aug, 2022)
 3. The House has resolved that the following instances are no longer progression raids:
     * Karazhan (resolved 18 Jul, 2021)
     * Gruul's Lair (resolved 28 Apr, 2022)
@@ -760,19 +755,23 @@ The following types of items are random rolled to members of the raid eligible t
 ## CHAPTER 3—RAID GROUPS
 
 ### §201. Raid leaders
-Those members of the guild having attained the rank of Citizen or higher may choose to start their own raid group. Any officer with permission in Discord to create a text channel for the raid group and to grant the Raid Leadership role to the guild member wishing to run the raid group should do so upon receipt of the request.
+Those members of the guild having attained the rank of Citizen or higher may choose to start their own raid group.
+Any officer with permission in Discord to create a text channel for the raid group and to grant the Raid Leadership role to the guild member wishing to run the raid group should do so upon receipt of the request.
 
 ### §202. Scheduling
 Raid leaders are required to post a sign-up for guild members to sign up for their raids at least four calendar days prior to the raid.
 
 ### §203. Loot governance
-Raid leaders shall ensure there is a master looter implementing the raid's loot system. When a raid is of an instance that is not considered progression under the terms of section 101, the raid leader shall determine what loot system to use. The loot system to be used must be determined and fixed prior to the scheduling of a raid.
+Raid leaders shall ensure there is a master looter implementing the raid's loot system.
+When a raid is of an encounter or instance that is not considered progression under the terms of section 101, the raid leader shall determine what loot system to use.
+The loot system to be used must be determined and fixed prior to the scheduling of a raid.
 
 ### §204. Disenchanting
 Raid leaders shall make any invitation adjustment necessary to ensure the raid has a member that can disenchant unwanted items. 
 
 ### §205. Guild bank reserved items
-Some items (as determined by section 1 of Title 8) that drop and all enchanting materials created in raids are reserved for the guild bank regardless of whether the instance is progression or not. Unwanted tokens in exchange for disenchantable items shall be looted to the disenchanter to purchase an item to disenchant and deposit the resulting materials into the guild bank.
+Some items (as determined by section 1 of Title 8) that drop and all enchanting materials created in raids are reserved for the guild bank regardless of whether the instance is progression or not.
+Unwanted tokens in exchange for disenchantable items shall be looted to the disenchanter to purchase an item to disenchant and deposit the resulting materials into the guild bank.
 
 # Title 8—Banking
 
