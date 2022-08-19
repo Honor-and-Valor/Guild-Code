@@ -784,7 +784,7 @@ All guild members shall be required to procure, to bring to, and to use the foll
       - two [Flask of the Frost Wyrm](https://www.wowhead.com/wotlk/item=46376): +125 spell power; or,
       - twenty battle elixirs and twenty guardian elixirs:
         - battle:
-          - [Elixir of Lightning Speed](https://www.wowhead.com/wotlk/item=44331): +45 haste rating; or,
+          - [Elixir of Deadly Strikes](https://www.wowhead.com/wotlk/item=44327): +45 critical rating; or,
           - [Spellpower Elixir](https://www.wowhead.com/wotlk/item=40070): +58 spell power;
         - guardian:
           - [Elixir of Mighty Fortitude](https://www.wowhead.com/wotlk/item=40078): +350 max health and +20 health per 5 sec;
@@ -793,7 +793,6 @@ All guild members shall be required to procure, to bring to, and to use the foll
     - twenty of one of the following items from Cooking:
       - [Cuttlesteak](https://www.wowhead.com/wotlk/item=42998): +40 spirit and +40 stamina;
       - [Firecracker Salmon](https://www.wowhead.com/wotlk/item=34767): +46 spell power and +40 stamina;
-      - [Imperial Manta Steak](https://www.wowhead.com/wotlk/item=34769): +40 haste rating and +40 stamina;
       - [Mighty Rhino Dogs](https://www.wowhead.com/wotlk/item=34758): +40 critical rating and +40 stamina;
       - [Spiced Worm Burger](https://www.wowhead.com/wotlk/item=34756): +40 critical rating and +40 stamina;
       - [Spicy Blue Nettlefish](https://www.wowhead.com/wotlk/item=34768): +40 critical rating and +40 stamina;
