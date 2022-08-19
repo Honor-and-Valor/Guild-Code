@@ -111,6 +111,8 @@
     - [§2. Looting](#2-looting)
   - [CHAPTER 2—PROGRESSION](#chapter-2progression)
     - [§101. Progression instances](#101-progression-instances)
+    - [§102. Required consumables](#102-required-consumables)
+    - [§103. Required add-ons](#103-required-add-ons)
   - [CHAPTER 3—RAID GROUPS](#chapter-3raid-groups)
     - [§201. Raid leaders](#201-raid-leaders)
     - [§202. Scheduling](#202-scheduling)
@@ -751,6 +753,150 @@ The raid date on softres.it shall not be set so that members may denote and late
     * Karazhan (resolved 18 Jul, 2021)
     * Gruul's Lair (resolved 28 Apr, 2022)
     * Hellfire Citadel (resolved 28 Apr, 2022)
+
+### §102. Required consumables
+All guild members shall be required to procure, to bring to, and to use the following consumable items as needed in each progression raid:
+
+- In *Wrath of the Lich King Classic*—
+  - as a tank—
+    - one of the following sets of items from Alchemy:
+      - two [Flask of Stoneblood](https://www.wowhead.com/wotlk/item=46379): +1300 max health; or,
+      - twenty battle elixirs and twenty guardian elixirs:
+        - battle:
+          - [Elixir of Mighty Agility](https://www.wowhead.com/wotlk/item=39666): +45 agility;
+        - guardian:
+          - [Elixir of Mighty Defense](https://www.wowhead.com/wotlk/item=44328): +45 defense rating;
+          - [Elixir of Mighty Fortitude](https://www.wowhead.com/wotlk/item=40078): +350 max health and +20 health per 5 sec; or,
+          - [Elixir of Protection](https://www.wowhead.com/wotlk/item=40097): +800 armor;
+    - twenty of one of the following items from Cooking:
+      - [Blackened Dragonfin](https://www.wowhead.com/wotlk/item=42999): +40 agility and +40 stamina;
+      - [Dragonfin Filet](https://www.wowhead.com/wotlk/item=43000): +40 strength and +40 stamina;
+      - [Rhinolicious Wormsteak](https://www.wowhead.com/wotlk/item=42994): +40 expertise rating and +40 stamina;
+      - [Snapper Extreme](https://www.wowhead.com/wotlk/item=42996): +40 hit rating and +40 stamina; or,
+      - [Worg Tartare](https://www.wowhead.com/wotlk/item=44953): +40 hit rating and +40 stamina;
+    - twenty of one of the following items:
+      - [Runic Healing Injector](https://www.wowhead.com/wotlk/item=41166): +~3600 health; or,
+      - [Runic Healing Potion](https://www.wowhead.com/wotlk/item=33447): +~3600 health;
+    - twenty [Indestructible Potion](https://www.wowhead.com/wotlk/item=40093): +3500 armor;
+  - as a healer—
+    - one of the following sets of items from Alchemy:
+      - two [Flask of Pure Mojo](https://www.wowhead.com/wotlk/item=46378): +45 mana per 5 sec;
+      - two [Flask of the Frost Wyrm](https://www.wowhead.com/wotlk/item=46376): +125 spell power; or,
+      - twenty battle elixirs and twenty guardian elixirs:
+        - battle:
+          - [Elixir of Lightning Speed](https://www.wowhead.com/wotlk/item=44331): +45 haste rating; or,
+          - [Spellpower Elixir](https://www.wowhead.com/wotlk/item=40070): +58 spell power;
+        - guardian:
+          - [Elixir of Mighty Fortitude](https://www.wowhead.com/wotlk/item=40078): +350 max health and +20 health per 5 sec;
+          - [Elixir of Mighty Thoughts](https://www.wowhead.com/wotlk/item=44332): +45 intellect; or,
+          - [Elixir of Spirit](https://www.wowhead.com/wotlk/item=40072): +50 spirit;
+    - twenty of one of the following items from Cooking:
+      - [Cuttlesteak](https://www.wowhead.com/wotlk/item=42998): +40 spirit and +40 stamina;
+      - [Firecracker Salmon](https://www.wowhead.com/wotlk/item=34767): +46 spell power and +40 stamina;
+      - [Imperial Manta Steak](https://www.wowhead.com/wotlk/item=34769): +40 haste rating and +40 stamina;
+      - [Mighty Rhino Dogs](https://www.wowhead.com/wotlk/item=34758): +40 critical rating and +40 stamina;
+      - [Spiced Worm Burger](https://www.wowhead.com/wotlk/item=34756): +40 critical rating and +40 stamina;
+      - [Spicy Blue Nettlefish](https://www.wowhead.com/wotlk/item=34768): +40 critical rating and +40 stamina;
+      - [Spicy Fried Herring](https://www.wowhead.com/wotlk/item=42993): +20 mana per 5 sec and +40 stamina;
+      - [Tender Shoveltusk Steak](https://www.wowhead.com/wotlk/item=34755): +46 spell power and +40 stamina; or,
+      - [Very Burnt Worg](https://www.wowhead.com/wotlk/item=34757): +20 mana per 5 sec and +40 stamina;
+    - twenty of one of the following items:
+      - [Runic Healing Injector](https://www.wowhead.com/wotlk/item=41166): +~3600 health; or,
+      - [Runic Healing Potion](https://www.wowhead.com/wotlk/item=33447): +~3600 health;
+    - twenty of one of the following items:
+      - [Runic Mana Injector](https://www.wowhead.com/wotlk/item=42545): +~4300 mana; or,
+      - [Runic Mana Potion](https://www.wowhead.com/wotlk/item=33448): +~4300 mana;
+  - as a strength-based damage-dealer—
+    - one of the following sets of items from Alchemy:
+      - two [Flask of Endless Rage](https://www.wowhead.com/wotlk/item=46377): +180 attack power; or,
+      - twenty battle elixirs and twenty guardian elixirs:
+        - battle:
+          - [Elixir of Accuracy](https://www.wowhead.com/wotlk/item=44325): +45 hit rating;
+          - [Elixir of Armor Piercing](https://www.wowhead.com/wotlk/item=44330): +45 armor penetration rating;
+          - [Elixir of Deadly Strikes](https://www.wowhead.com/wotlk/item=44327): +45 critical rating;
+          - [Elixir of Expertise](https://www.wowhead.com/wotlk/item=44329): +45 expertise rating;
+          - [Elixir of Lightning Speed](https://www.wowhead.com/wotlk/item=44331): +45 haste rating; or,
+          - [Elixir of Mighty Strength](https://www.wowhead.com/wotlk/item=40073): +50 strength;
+        - guardian:
+          - [Elixir of Mighty Fortitude](https://www.wowhead.com/wotlk/item=40078): +350 max health and +20 health per 5 sec;
+    - twenty of one of the following items from Cooking:
+      - [Dragonfin Filet](https://www.wowhead.com/wotlk/item=43000): +40 strength and +40 stamina;
+      - [Hearty Rhino](https://www.wowhead.com/wotlk/item=42995): +40 armor penetration rating and +40 stamina;
+      - [Imperial Manta Steak](https://www.wowhead.com/wotlk/item=34769): +40 haste rating and +40 stamina;
+      - [Mega Mammoth Meal](https://www.wowhead.com/wotlk/item=34754): +80 attack power and +40 stamina;
+      - [Mighty Rhino Dogs](https://www.wowhead.com/wotlk/item=34758): +40 critical rating and +40 stamina;
+      - [Poached Northern Sculpin](https://www.wowhead.com/wotlk/item=34766): +80 attack power and +40 stamina;
+      - [Rhinolicious Wormsteak](https://www.wowhead.com/wotlk/item=42994): +40 expertise rating and +40 stamina;
+      - [Snapper Extreme](https://www.wowhead.com/wotlk/item=42996): +40 hit rating and +40 stamina;
+      - [Spiced Worm Burger](https://www.wowhead.com/wotlk/item=34756): +40 critical rating and +40 stamina;
+      - [Spicy Blue Nettlefish](https://www.wowhead.com/wotlk/item=34768): +40 critical rating and +40 stamina; or,
+      - [Worg Tartare](https://www.wowhead.com/wotlk/item=44953): +40 hit rating and +40 stamina;
+    - twenty of one of the following items:
+      - [Runic Healing Injector](https://www.wowhead.com/wotlk/item=41166): +~3600 health; or,
+      - [Runic Healing Potion](https://www.wowhead.com/wotlk/item=33447): +~3600 health;
+    - twenty [Potion of Speed](https://www.wowhead.com/wotlk/item=40211): +500 haste rating;
+    - twenty [Heavy Frostweave Bandage](https://www.wowhead.com/wotlk/item=34722): +5800 health;
+  - as an agility-based damage-dealer—
+    - one of the following sets of items from Alchemy:
+      - two [Flask of Endless Rage](https://www.wowhead.com/wotlk/item=46377): +180 attack power; or,
+      - twenty battle elixirs and twenty guardian elixirs:
+        - battle:
+          - [Elixir of Accuracy](https://www.wowhead.com/wotlk/item=44325): +45 hit rating;
+          - [Elixir of Deadly Strikes](https://www.wowhead.com/wotlk/item=44327): +45 critical rating;
+          - [Elixir of Expertise](https://www.wowhead.com/wotlk/item=44329): +45 expertise rating;
+          - [Elixir of Lightning Speed](https://www.wowhead.com/wotlk/item=44331): +45 haste rating; or,
+          - [Elixir of Mighty Agility](https://www.wowhead.com/wotlk/item=39666): +45 agility;
+        - guardian:
+          - [Elixir of Mighty Fortitude](https://www.wowhead.com/wotlk/item=40078): +350 max health and +20 health per 5 sec;
+    - twenty of one of the following items from Cooking:
+      - [Blackened Dragonfin](https://www.wowhead.com/wotlk/item=42999): +40 agility and +40 stamina;
+      - [Hearty Rhino](https://www.wowhead.com/wotlk/item=42995): +40 armor penetration rating and +40 stamina;
+      - [Imperial Manta Steak](https://www.wowhead.com/wotlk/item=34769): +40 haste rating and +40 stamina;
+      - [Mega Mammoth Meal](https://www.wowhead.com/wotlk/item=34754): +80 attack power and +40 stamina;
+      - [Mighty Rhino Dogs](https://www.wowhead.com/wotlk/item=34758): +40 critical rating and +40 stamina;
+      - [Poached Northern Sculpin](https://www.wowhead.com/wotlk/item=34766): +80 attack power and +40 stamina;
+      - [Rhinolicious Wormsteak](https://www.wowhead.com/wotlk/item=42994): +40 expertise rating and +40 stamina;
+      - [Snapper Extreme](https://www.wowhead.com/wotlk/item=42996): +40 hit rating and +40 stamina;
+      - [Spiced Worm Burger](https://www.wowhead.com/wotlk/item=34756): +40 critical rating and +40 stamina;
+      - [Spicy Blue Nettlefish](https://www.wowhead.com/wotlk/item=34768): +40 critical rating and +40 stamina; or,
+      - [Worg Tartare](https://www.wowhead.com/wotlk/item=44953): +40 hit rating and +40 stamina;
+    - twenty of one of the following items:
+      - [Runic Healing Injector](https://www.wowhead.com/wotlk/item=41166): +~3600 health; or,
+      - [Runic Healing Potion](https://www.wowhead.com/wotlk/item=33447): +~3600 health;
+    - twenty [Potion of Speed](https://www.wowhead.com/wotlk/item=40211): +500 haste rating;
+    - twenty [Heavy Frostweave Bandage](https://www.wowhead.com/wotlk/item=34722): +5800 health;
+  - as an intellect-based damage-dealer—
+    - one of the following sets of items from Alchemy:
+      - two [Flask of the Frost Wyrm](https://www.wowhead.com/wotlk/item=46376): +125 spell power; or,
+      - twenty battle elixirs and twenty guardian elixirs:
+        - battle:
+          - [Elixir of Accuracy](https://www.wowhead.com/wotlk/item=44325): +45 hit rating;
+          - [Elixir of Deadly Strikes](https://www.wowhead.com/wotlk/item=44327): +45 critical rating;
+          - [Elixir of Lightning Speed](https://www.wowhead.com/wotlk/item=44331): +45 haste rating; or,
+          - [Spellpower Elixir](https://www.wowhead.com/wotlk/item=40070): +58 spell power;
+        - guardian:
+          - [Elixir of Mighty Thoughts](https://www.wowhead.com/wotlk/item=44332): +45 intellect; or,
+          - [Elixir of Spirit](https://www.wowhead.com/wotlk/item=40072): +50 spirit;
+    - twenty of one of the following items from Cooking:
+      - [Firecracker Salmon](https://www.wowhead.com/wotlk/item=34767): +46 spell power and +40 stamina;
+      - [Mighty Rhino Dogs](https://www.wowhead.com/wotlk/item=34758): +40 critical rating and +40 stamina;
+      - [Snapper Extreme](https://www.wowhead.com/wotlk/item=42996): +40 hit rating and +40 stamina;
+      - [Spiced Worm Burger](https://www.wowhead.com/wotlk/item=34756): +40 critical rating and +40 stamina;
+      - [Spicy Blue Nettlefish](https://www.wowhead.com/wotlk/item=34768): +40 critical rating and +40 stamina;
+      - [Tender Shoveltusk Steak](https://www.wowhead.com/wotlk/item=34755): +46 spell power and +40 stamina; or,
+      - [Worg Tartare](https://www.wowhead.com/wotlk/item=44953): +40 hit rating and +40 stamina;
+    - twenty of one of the following items:
+      - [Runic Healing Injector](https://www.wowhead.com/wotlk/item=41166): +~3600 health; or,
+      - [Runic Healing Potion](https://www.wowhead.com/wotlk/item=33447): +~3600 health;
+    - twenty [Potion of Wild Magic](https://www.wowhead.com/wotlk/item=40212): +200 critical rating and +200 spell power; and,
+    - twenty [Heavy Frostweave Bandage](https://www.wowhead.com/wotlk/item=34722): +5800 health.
+
+### §103. Required add-ons
+All guild members shall be required to install, configure, enable, and use the following add-ons in progression raids:
+
+- In *Wrath of the Lich King Classic*—
+  - [Deadly Boss Mods](https://www.curseforge.com/wow/addons/deadly-boss-mods): Deadly Boss Mods (commonly referred to as "DBM") is an addon suite that is a collection of many sub mods for boss encounters and special events; and,
+  - [WeakAuras](https://www.curseforge.com/wow/addons/weakauras-2): WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface to indicate buffs, debuffs, and other relevant information.
 
 ## CHAPTER 3—RAID GROUPS
 
