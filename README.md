@@ -760,7 +760,7 @@ All guild members shall be required to procure, to bring to, and to use the foll
 - In *Wrath of the Lich King Classic*—
   - as a tank—
     - one of the following sets of items from Alchemy:
-      - two [Flask of Stoneblood](https://www.wowhead.com/wotlk/item=46379): +1300 max health; or,
+      - four [Flask of Stoneblood](https://www.wowhead.com/wotlk/item=46379): +1300 max health; or,
       - twenty battle elixirs and twenty guardian elixirs:
         - battle:
           - [Elixir of Mighty Agility](https://www.wowhead.com/wotlk/item=39666): +45 agility;
@@ -780,8 +780,8 @@ All guild members shall be required to procure, to bring to, and to use the foll
     - twenty [Indestructible Potion](https://www.wowhead.com/wotlk/item=40093): +3500 armor;
   - as a healer—
     - one of the following sets of items from Alchemy:
-      - two [Flask of Pure Mojo](https://www.wowhead.com/wotlk/item=46378): +45 mana per 5 sec;
-      - two [Flask of the Frost Wyrm](https://www.wowhead.com/wotlk/item=46376): +125 spell power; or,
+      - four [Flask of Pure Mojo](https://www.wowhead.com/wotlk/item=46378): +45 mana per 5 sec;
+      - four [Flask of the Frost Wyrm](https://www.wowhead.com/wotlk/item=46376): +125 spell power; or,
       - twenty battle elixirs and twenty guardian elixirs:
         - battle:
           - [Elixir of Deadly Strikes](https://www.wowhead.com/wotlk/item=44327): +45 critical rating; or,
@@ -807,7 +807,7 @@ All guild members shall be required to procure, to bring to, and to use the foll
       - [Runic Mana Potion](https://www.wowhead.com/wotlk/item=33448): +~4300 mana;
   - as a strength-based damage-dealer—
     - one of the following sets of items from Alchemy:
-      - two [Flask of Endless Rage](https://www.wowhead.com/wotlk/item=46377): +180 attack power; or,
+      - four [Flask of Endless Rage](https://www.wowhead.com/wotlk/item=46377): +180 attack power; or,
       - twenty battle elixirs and twenty guardian elixirs:
         - battle:
           - [Elixir of Accuracy](https://www.wowhead.com/wotlk/item=44325): +45 hit rating;
@@ -837,7 +837,7 @@ All guild members shall be required to procure, to bring to, and to use the foll
     - twenty [Heavy Frostweave Bandage](https://www.wowhead.com/wotlk/item=34722): +5800 health;
   - as an agility-based damage-dealer—
     - one of the following sets of items from Alchemy:
-      - two [Flask of Endless Rage](https://www.wowhead.com/wotlk/item=46377): +180 attack power; or,
+      - four [Flask of Endless Rage](https://www.wowhead.com/wotlk/item=46377): +180 attack power; or,
       - twenty battle elixirs and twenty guardian elixirs:
         - battle:
           - [Elixir of Accuracy](https://www.wowhead.com/wotlk/item=44325): +45 hit rating;
@@ -866,7 +866,7 @@ All guild members shall be required to procure, to bring to, and to use the foll
     - twenty [Heavy Frostweave Bandage](https://www.wowhead.com/wotlk/item=34722): +5800 health;
   - as an intellect-based damage-dealer—
     - one of the following sets of items from Alchemy:
-      - two [Flask of the Frost Wyrm](https://www.wowhead.com/wotlk/item=46376): +125 spell power; or,
+      - four [Flask of the Frost Wyrm](https://www.wowhead.com/wotlk/item=46376): +125 spell power; or,
       - twenty battle elixirs and twenty guardian elixirs:
         - battle:
           - [Elixir of Accuracy](https://www.wowhead.com/wotlk/item=44325): +45 hit rating;
