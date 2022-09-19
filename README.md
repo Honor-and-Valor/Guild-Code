@@ -731,13 +731,13 @@ This channel shall be visible to all members of the guild, although only those h
 The raid date on softres.it shall not be set so that members may denote and later revise what loot they are seeking from that encounter or instance.
 
 Creating a reservation entry on the appropriate softres.it link for the raid is optional.
-When a raid member's selections are required by the process in section 2 but they have not created a reservation entry, the best-in-slot items for the raid member's specialization in the content phase containing the encounter as determined by the Wowhead class guide with the highest rating excepting what items the raid member already has shall stand in substitution.
+When a raid member's selections are required by the process in section 2 but they have not created a reservation entry, the best-in-slot items for the raid member's specialization in the content phase containing the encounter as determined by a published class guide excepting what items the raid member already has shall stand in substitution.
 
 ### §2. Process
 1. Only guild raids for encounters or instances that the House has resolved to be progression raids are governed by the loot system.
 2. Guild raids are master looted with a loot quality threshold of epic.
 3. For each raid, the raid leader shall designate at least three persons in the guild, potentially including himself, to serve as the raid's loot council. The master looter shall be a member of the loot council.
-4. When a drop containing items that bind when picked-up occurs, the raid's loot council shall review the softres.it raid or the appropriate guide information to determine which members of the raid are interested in the item and the audit log of items thus far distributed, and deliberate upon whom shall receive it. The raid leader may direct the master looter to loot items to himself in order that they may be traded to the designated recipient later should he feel raiding efficiency will benefit from it.
+4. When a drop containing items that bind when picked-up occurs, the raid's loot council shall review the softres.it raid or the loot council's chosen guide information to determine which members of the raid are interested in the item and the audit log of items thus far distributed, and deliberate upon whom shall receive it. The raid leader may direct the master looter to loot items to himself in order that they may be traded to the designated recipient later should he feel raiding efficiency will benefit from it.
 5. When the loot council arrives at a majority opinion regarding a particular item, the item will be distributed to the member selected, the softres.it raid will be amended to strike the item from that raid member's desired items, and the distribution will be transcribed in the audit log.
 
 ## CHAPTER 2—PROGRESSION
