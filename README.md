@@ -605,7 +605,7 @@ It is an extremely serious violation.
 It is prohibited to do this anywhere an expression can be made, including in-game chat and voice chat.
 
 A non-exhaustive list of behavior, when done with the intent of causing emotional distress, that could constitute harassment in Honor and Valor includes:
-* discriminatory expressions based on race/nationality/thinking/gender/sexual orientation/gender identity;
+* discriminatory expressions based on race/nationality/thinking/gender/sexual orientation/gender identity/disability;
 * discriminatory expressions about a state/religion/occupation/organization, etc.;
 * expressions that promote, advocate, or direct anyone to commit any form of self-harm;
 * obscene/indecent expressions;
