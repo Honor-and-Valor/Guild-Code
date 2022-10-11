@@ -571,7 +571,7 @@ Title 4 of the Honor and Valor code entitled "Crime Control and Law Enforcement"
 ## CHAPTER 1—CRIMINAL ACTIONS
 
 ### §1. Purpose
-In Honor and Valor, obstructive behavior that has an adverse impact on other members' gameplay is prohibited.
+In Honor and Valor, obstructive behavior that has an adverse impact on others' gameplay is prohibited.
 Such behavior violates the terms of this statute.
 If a violation is confirmed as a result of the Corps of Commanders investigations, they may, in their sole discretion, issue a penalty to the offending guild members as specified by the section defining the offense.
 
@@ -605,8 +605,9 @@ It is an extremely serious violation.
 It is prohibited to do this anywhere an expression can be made, including in-game chat and voice chat.
 
 A non-exhaustive list of behavior, when done with the intent of causing emotional distress, that could constitute harassment in Honor and Valor includes:
-* discriminatory expressions based on race/nationality/thinking/gender/sexual orientation/gender identity;
+* discriminatory expressions based on race/nationality/thinking/gender/sexual orientation/gender identity/disability;
 * discriminatory expressions about a state/religion/occupation/organization, etc.;
+* expressions that promote, advocate, or direct anyone to commit any form of self-harm;
 * obscene/indecent expressions;
 * actions that inflict emotional distress by using expressions related to historical events or crimes;
 * stalking;
