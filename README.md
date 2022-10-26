@@ -931,7 +931,7 @@ Title 8 of the Honor and Valor code entitled "Banking" is codified into positive
 
 ### §1. Guild bank reserved items
 The following items that drop or are created in raids are reserved for the guild bank:
-* items that bind when equipped and that are not desired by the members of a raid for their personal use;
+* items that bind when equipped and that are not specifically earmarked by any members of a raid (e.g. soft reserved);
 * profession training items that do not bind when picked up; and
 * enchanting materials.
 
