@@ -749,14 +749,18 @@ When a raid member's selections are required by the process in section 2 but the
     * Karazhan (resolved 9 Jun, 2021)
     * Gruul's Lair (resolved 22 Jun, 2021)
     * Hellfire Citadel (resolved 22 Jun, 2021)
-    * Naxxramas (Wrath of the Lich King, 25-man) (resolved 13 Aug, 2022)
-    * The Obsidian Sanctum (25-man) (resolved 13 Aug, 2022)
-    * The Eye of Eternity (25-man) (resolved 13 Aug, 2022)
-    * Vault of Archavon (25-man) (resolved 13 Aug, 2022)
+    * Naxxramas (Wrath of the Lich King, 25) (resolved 13 Aug, 2022)
+    * The Obsidian Sanctum (25) (resolved 13 Aug, 2022)
+    * The Eye of Eternity (25) (resolved 13 Aug, 2022)
+    * Vault of Archavon (25) (resolved 13 Aug, 2022)
+    * Ulduar (25) (resolved 17 Jan, 2023)
 3. The House has resolved that the following instances are no longer progression raids:
     * Karazhan (resolved 18 Jul, 2021)
     * Gruul's Lair (resolved 28 Apr, 2022)
     * Hellfire Citadel (resolved 28 Apr, 2022)
+    * Naxxramas (Wrath of the Lich King, 25) (resolved 17 Jan, 2023)
+    * The Obsidian Sanctum (25) (resolved 17 Jan, 2023)
+    * The Eye of Eternity (25) (resolved 17 Jan, 2023)
 
 ### §102. Required consumables
 All guild members shall be required to procure, to bring to, and to use the following consumable items as needed in each progression raid:
