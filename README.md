@@ -81,6 +81,11 @@
     - [§102. Eligibility](#102-eligibility)
     - [§103. Enforcement powers](#103-enforcement-powers)
     - [§104. Rule of law](#104-rule-of-law)
+  - [CHAPTER 3—APPOINTMENT OF CITIZENS AS DEPUTIES](#chapter-3appointment-of-citizens-as-deputies)
+    - [§201. Appointment of Citizens](#201-appointment-of-citizens)
+    - [§202. Extraordinary Circumstances](#202-extraordinary-circumstances)
+    - [§203. Official Notification of Deputization](#203-official-notification-of-deputization)
+    - [§204. Waiver of Commander's Oath Requirement](#204-waiver-of-commanders-oath-requirement)
 - [Title 4—Crime Control and Law Enforcement](#title-4crime-control-and-law-enforcement)
   - [TITLE 4—Front Matter](#title-4front-matter)
   - [CHAPTER 1—CRIMINAL ACTIONS](#chapter-1criminal-actions)
@@ -562,6 +567,22 @@ Except where otherwise provided by law, a Commander when keeping the peace is gr
 ### §104. Rule of law
 No member of this guild, including but not limited to the Representatives of the House, Commanders, the Commander-in-chief, any judicial bodies or officers which may be provided for by the Marshal or this code, Veterans of Honor and Valor, and the Marshal are beyond the scope or reach of the law.
 Commanders are required to apply the law to each member of the guild equally.
+
+## CHAPTER 3—APPOINTMENT OF CITIZENS AS DEPUTIES
+
+### §201. Appointment of Citizens
+Veterans of Honor and Valor and the Commander-in-chief may, under extraordinary circumstances as specified by section 202 of this title, apppint citizens as special deputies to keep the peace as specified by Chapter 2 of this title, provided such appointed citizen is not otherwise disqualified to serve as a Commander.
+Failure of such deputies to correctly enforce the Litany of Honor and Valor or this code shall be the responsibility of the deputizer.
+
+### §202. Extraordinary Circumstances
+Whether extraordinary circumstances exist to warrant deputization as specified in section 201 may be determined either by the Marshal or the Council of Veterans in a simple majority of those voting for the purpose.
+The extraordinary circumstances begin and end when the House is officially notified in a message delivered to the floor.
+
+### §203. Official Notification of Deputization
+When a citizen is deputized or relieved of duty, the deputizer is required to notify the House via a message delivered to the floor.
+
+### §204. Waiver of Commander's Oath Requirement
+Deputees are not required to take the oath specified in Article III of the Litany of Honor and Valor as even though they may be promoted to the Commander rank in -game or given the Commanders role in Discord, they are distinct from full Commanders.
 
 # Title 4—Crime Control and Law Enforcement
 
