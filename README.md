@@ -571,8 +571,8 @@ Commanders are required to apply the law to each member of the guild equally.
 ## CHAPTER 3—APPOINTMENT OF CITIZENS AS DEPUTIES
 
 ### §201. Appointment of Citizens
-Veterans of Honor and Valor and the Commander-in-chief may, under extraordinary circumstances as specified by section 202 of this title, appoint citizens as special deputies to keep the peace as specified by Chapter 2 of this title, provided such appointed citizen is not otherwise disqualified to serve as a Commander.
-Failure of such deputies to correctly enforce the Litany of Honor and Valor or this code shall be the responsibility of the deputizer.
+Veterans of Honor and Valor and the Commander-in-chief may, under extraordinary circumstances as specified by section 202 of this title, appoint a citizen as special deputy to keep the peace as specified by Chapter 2 of this title, provided such appointed citizen is not otherwise disqualified to serve as a Commander.
+Failure of the deputy to correctly enforce the Litany of Honor and Valor or this code shall be the responsibility of the deputizer.
 
 ### §202. Extraordinary Circumstances
 Whether extraordinary circumstances exist to warrant deputization as specified in section 201 may be determined either by the Marshal or the Council of Veterans in a simple majority of those voting for the purpose.
