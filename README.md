@@ -571,7 +571,7 @@ Commanders are required to apply the law to each member of the guild equally.
 ## CHAPTER 3—APPOINTMENT OF CITIZENS AS DEPUTIES
 
 ### §201. Appointment of Citizens
-Veterans of Honor and Valor and the Commander-in-chief may, under extraordinary circumstances as specified by section 202 of this title, apppint citizens as special deputies to keep the peace as specified by Chapter 2 of this title, provided such appointed citizen is not otherwise disqualified to serve as a Commander.
+Veterans of Honor and Valor and the Commander-in-chief may, under extraordinary circumstances as specified by section 202 of this title, appoint citizens as special deputies to keep the peace as specified by Chapter 2 of this title, provided such appointed citizen is not otherwise disqualified to serve as a Commander.
 Failure of such deputies to correctly enforce the Litany of Honor and Valor or this code shall be the responsibility of the deputizer.
 
 ### §202. Extraordinary Circumstances
@@ -582,7 +582,7 @@ The extraordinary circumstances begin and end when the House is officially notif
 When a citizen is deputized or relieved of duty, the deputizer is required to notify the House via a message delivered to the floor.
 
 ### §204. Waiver of Commander's Oath Requirement
-Deputees are not required to take the oath specified in Article III of the Litany of Honor and Valor as even though they may be promoted to the Commander rank in -game or given the Commanders role in Discord, they are distinct from full Commanders.
+Deputies are not required to take the oath specified in Article III of the Litany of Honor and Valor as even though they may be promoted to the Commander rank in-game or given the Commanders role in Discord, they are distinct from full Commanders.
 
 # Title 4—Crime Control and Law Enforcement
 
