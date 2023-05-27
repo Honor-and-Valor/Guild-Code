@@ -28,7 +28,7 @@
     - [§109. Statutes at Large; contents; admissibility in evidence](#109-statutes-at-large-contents-admissibility-in-evidence)
     - [§109a. Honor and Valor Treaties and Other Inter-Guild Agreements; contents; admissibility in evidence](#109a-honor-and-valor-treaties-and-other-inter-guild-agreements-contents-admissibility-in-evidence)
     - [§109b. Honor and Valor inter-guild agreements; transmission to the House](#109b-honor-and-valor-inter-guild-agreements-transmission-to-the-house)
-  - [CHATPER 3—CODE OF LAWS OF HONOR AND VALOR AND SUPPLEMENTS](#chatper-3code-of-laws-of-honor-and-valor-and-supplements)
+  - [CHAPTER 3—CODE OF LAWS OF HONOR AND VALOR AND SUPPLEMENTS](#chapter-3code-of-laws-of-honor-and-valor-and-supplements)
     - [§201. Preparation and publication of Codes and Supplements](#201-preparation-and-publication-of-codes-and-supplements)
     - [§202. Codes and Supplements as evidence of the laws of Honor and Valor; citation of Codes and Supplements](#202-codes-and-supplements-as-evidence-of-the-laws-of-honor-and-valor-citation-of-codes-and-supplements)
     - [§203. Codes and Supplement; where printed; form and style; ancillaries](#203-codes-and-supplement-where-printed-form-and-style-ancillaries)
@@ -324,7 +324,7 @@ The Honor and Valor Statutes at Large shall consist of all the laws and concurre
 6. The Marshal shall, either himself or through the his designee, promulgate such rules and regulations as may be necessary to carry out this section.
 7. It is the sense of the House that the executive branch should not prescribe or otherwise commit to or include specific legislative text in a treaty or executive agreement unless the House has authorized such action.
 
-## CHATPER 3—CODE OF LAWS OF HONOR AND VALOR AND SUPPLEMENTS
+## CHAPTER 3—CODE OF LAWS OF HONOR AND VALOR AND SUPPLEMENTS
 
 ### §201. Preparation and publication of Codes and Supplements
 There shall be prepared and published under the supervision of the House—
