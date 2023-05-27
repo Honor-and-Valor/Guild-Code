@@ -106,6 +106,7 @@
   - [TITLE 6—Front Matter](#title-6front-matter)
   - [CHAPTER 1—PATHS TO CITIZENSHIP](#chapter-1paths-to-citizenship)
     - [§1. Raiding](#1-raiding)
+    - [§2. Remaining Mortal at Maximum Level in Hardcore](#2-remaining-mortal-at-maximum-level-in-hardcore)
   - [CHAPTER 2—LOSS OF CITIZENSHIP](#chapter-2loss-of-citizenship)
     - [§101. Renunciation of Citizenship](#101-renunciation-of-citizenship)
     - [§102. Loss of Citizenship](#102-loss-of-citizenship)
@@ -726,6 +727,11 @@ Title 6 of the Honor and Valor code entitled "Citizenship" is codified into posi
 
 ### §1. Raiding
 Those having attended two lockouts worth of progression raiding will be granted citizenship and awarded the rank of Citizen if they do not already possess a higher rank.
+
+### §2. Remaining Mortal at Maximum Level in Hardcore
+The Citizen rank will be granted to those either having:
+* completed the Hardcore Community Challenge, verified their run, and chosen to remain mortal; or,
+* attained maximum level on a Blizzard Hardcore realm.
 
 ## CHAPTER 2—LOSS OF CITIZENSHIP
 
