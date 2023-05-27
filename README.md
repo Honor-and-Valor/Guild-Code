@@ -81,6 +81,11 @@
     - [§102. Eligibility](#102-eligibility)
     - [§103. Enforcement powers](#103-enforcement-powers)
     - [§104. Rule of law](#104-rule-of-law)
+  - [CHAPTER 3—APPOINTMENT OF CITIZENS AS DEPUTIES](#chapter-3appointment-of-citizens-as-deputies)
+    - [§201. Appointment of Citizens](#201-appointment-of-citizens)
+    - [§202. Extraordinary Circumstances](#202-extraordinary-circumstances)
+    - [§203. Official Notification of Deputization](#203-official-notification-of-deputization)
+    - [§204. Waiver of Commander's Oath Requirement](#204-waiver-of-commanders-oath-requirement)
 - [Title 4—Crime Control and Law Enforcement](#title-4crime-control-and-law-enforcement)
   - [TITLE 4—Front Matter](#title-4front-matter)
   - [CHAPTER 1—CRIMINAL ACTIONS](#chapter-1criminal-actions)
@@ -101,6 +106,7 @@
   - [TITLE 6—Front Matter](#title-6front-matter)
   - [CHAPTER 1—PATHS TO CITIZENSHIP](#chapter-1paths-to-citizenship)
     - [§1. Raiding](#1-raiding)
+    - [§2. Remaining Mortal at Maximum Level in Hardcore](#2-remaining-mortal-at-maximum-level-in-hardcore)
   - [CHAPTER 2—LOSS OF CITIZENSHIP](#chapter-2loss-of-citizenship)
     - [§101. Renunciation of Citizenship](#101-renunciation-of-citizenship)
     - [§102. Loss of Citizenship](#102-loss-of-citizenship)
@@ -563,6 +569,22 @@ Except where otherwise provided by law, a Commander when keeping the peace is gr
 No member of this guild, including but not limited to the Representatives of the House, Commanders, the Commander-in-chief, any judicial bodies or officers which may be provided for by the Marshal or this code, Veterans of Honor and Valor, and the Marshal are beyond the scope or reach of the law.
 Commanders are required to apply the law to each member of the guild equally.
 
+## CHAPTER 3—APPOINTMENT OF CITIZENS AS DEPUTIES
+
+### §201. Appointment of Citizens
+Veterans of Honor and Valor and the Commander-in-chief may, under extraordinary circumstances as specified by section 202 of this title, appoint a citizen as special deputy to keep the peace as specified by Chapter 2 of this title, provided such appointed citizen is not otherwise disqualified to serve as a Commander.
+Failure of the deputy to correctly enforce the Litany of Honor and Valor or this code shall be the responsibility of the deputizer.
+
+### §202. Extraordinary Circumstances
+Whether extraordinary circumstances exist to warrant deputization as specified in section 201 may be determined either by the Marshal or the Council of Veterans in a simple majority of those voting for the purpose.
+The extraordinary circumstances begin and end when the House is officially notified in a message delivered to the floor.
+
+### §203. Official Notification of Deputization
+When a citizen is deputized or relieved of duty, the deputizer is required to notify the House via a message delivered to the floor.
+
+### §204. Waiver of Commander's Oath Requirement
+Deputies are not required to take the oath specified in Article III of the Litany of Honor and Valor as even though they may be promoted to the Commander rank in-game or given the Commanders role in Discord, they are distinct from full Commanders.
+
 # Title 4—Crime Control and Law Enforcement
 
 ## TITLE 4—Front Matter
@@ -706,6 +728,11 @@ Title 6 of the Honor and Valor code entitled "Citizenship" is codified into posi
 ### §1. Raiding
 Those having attended two lockouts worth of progression raiding will be granted citizenship and awarded the rank of Citizen if they do not already possess a higher rank.
 
+### §2. Remaining Mortal at Maximum Level in Hardcore
+The Citizen rank will be granted to those either having:
+* completed the Hardcore Community Challenge, verified their run, and chosen to remain mortal; or,
+* attained maximum level on a Blizzard Hardcore realm.
+
 ## CHAPTER 2—LOSS OF CITIZENSHIP
 
 ### §101. Renunciation of Citizenship
@@ -749,14 +776,18 @@ When a raid member's selections are required by the process in section 2 but the
     * Karazhan (resolved 9 Jun, 2021)
     * Gruul's Lair (resolved 22 Jun, 2021)
     * Hellfire Citadel (resolved 22 Jun, 2021)
-    * Naxxramas (Wrath of the Lich King, 25-man) (resolved 13 Aug, 2022)
-    * The Obsidian Sanctum (25-man) (resolved 13 Aug, 2022)
-    * The Eye of Eternity (25-man) (resolved 13 Aug, 2022)
-    * Vault of Archavon (25-man) (resolved 13 Aug, 2022)
+    * Naxxramas (Wrath of the Lich King, 25) (resolved 13 Aug, 2022)
+    * The Obsidian Sanctum (25) (resolved 13 Aug, 2022)
+    * The Eye of Eternity (25) (resolved 13 Aug, 2022)
+    * Vault of Archavon (25) (resolved 13 Aug, 2022)
+    * Ulduar (25) (resolved 15 Jan, 2023)
 3. The House has resolved that the following instances are no longer progression raids:
     * Karazhan (resolved 18 Jul, 2021)
     * Gruul's Lair (resolved 28 Apr, 2022)
     * Hellfire Citadel (resolved 28 Apr, 2022)
+    * Naxxramas (Wrath of the Lich King, 25) (resolved 15 Jan, 2023)
+    * The Obsidian Sanctum (25) (resolved 15 Jan, 2023)
+    * The Eye of Eternity (25) (resolved 15 Jan, 2023)
 
 ### §102. Required consumables
 All guild members shall be required to procure, to bring to, and to use the following consumable items as needed in each progression raid:
