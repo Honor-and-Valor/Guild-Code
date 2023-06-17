@@ -1163,7 +1163,7 @@ You must not:
 * use the auction house;
 * use the mailbox (except to retrieve mail from non-player characters);
 * trade items or services with other characters (except other members of a Duo or Trio as defined by section 104);
-* use your hearthstone or a teleportation ability other than Blink while under an immunity effect such as [Divine Shield](https://www.wowhead.com/classic/spell=1020/divine-shield) or [Light of Elune](https://www.wowhead.com/classic/spell=6724/light-of-elune);
+* use a teleportation ability, item, or spell other than [Blink](https://www.wowhead.com/classic/spell=1953/blink) while under an immunity effect such as [Divine Shield](https://www.wowhead.com/classic/spell=1020/divine-shield) or [Light of Elune](https://www.wowhead.com/classic/spell=6724/light-of-elune);
 * request assistance from other players or enter combat while still accepting assistance from other players;
 * enter battlegrounds;
 * use items only available to players with a PvP rank;
