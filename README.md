@@ -170,7 +170,7 @@
     - [§105. Attaining maximum level](#105-attaining-maximum-level)
   - [CHAPTER 3—MORTALITY AT MAXIMUM LEVEL](#chapter-3mortality-at-maximum-level)
     - [§201. Modifications](#201-modifications)
-    - [§202. Death Appeals](#202-death-appeals)
+    - [§202. Death appeals](#202-death-appeals)
   - [CHAPTER 4—GUILD TRANSFERS](#chapter-4guild-transfers)
 
 # Front Matter
@@ -1205,7 +1205,7 @@ Mortal characters at maximum level are still bound by provisions of Chapter 2 of
 * group with other mortal characters at maximum level within the guild for any questing, farming, or dungeon and raid activities; and,
 * trade with other mortal characters at maximum level within the guild.
 
-### §202. Death Appeals
+### §202. Death appeals
 TBD
 
 ## CHAPTER 4—GUILD TRANSFERS
