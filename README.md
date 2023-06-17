@@ -1126,8 +1126,8 @@ Pursuant to the below cited [Classic Hardcore Discord moderator announcement on 
 Honor and Valor maintains its own:
 * regulations regarding the ruleset applied to mortal characters (see section 201 of this title);
 * process for appealing the deaths of mortal characters (see section 202 of this title);
-* list of the guilds from which it will accept the transfer of mortal characters (see Chapter 4 of this title); and,
-* to the best of its knowledge, guilds which reciprocally accept the transfer of mortal characters from Honor and Valor (see Chapter 4 of this title).
+* list of the guilds from which it will accept the transfer of mortal characters at maximum level (see Chapter 4 of this title); and,
+* to the best of its knowledge, guilds which reciprocally accept the transfer of characters from Honor and Valor (see Chapter 4 of this title).
 
 ### §5. Supersession of Blizzard Hardcore realm ruleset
 When Honor and Valor is operating on a Blizzard Hardcore realm (as opposed to when hosting members performing the Classic WoW Hardcore community challenge), all provisions of this title specifically implementing Classic WoW Hardcore community rules are superceded by the implicit ruleset as enforced by Blizzard's control of the realm.
