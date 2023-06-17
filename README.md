@@ -154,6 +154,24 @@
     - [§205. Records; obsolete papers](#205-records-obsolete-papers)
     - [§206. Relative of adjudicator ineligible to appointment](#206-relative-of-adjudicator-ineligible-to-appointment)
     - [§207. Administration of oaths and acknowledgments](#207-administration-of-oaths-and-acknowledgments)
+- [Title 11—Hardcore Challenge and Realm Mode](#title-11hardcore-challenge-and-realm-mode)
+  - [TITLE 11—Front Matter](#title-11front-matter)
+  - [CHAPTER 1—GENERAL PROVISIONS](#chapter-1general-provisions)
+    - [§1. Duplicated and modified ruleset](#1-duplicated-and-modified-ruleset)
+    - [§2. Onus of processing verifications](#2-onus-of-processing-verifications)
+    - [§3. Guild representation and advocacy with the community](#3-guild-representation-and-advocacy-with-the-community)
+    - [§4. Devolved mortality regulation](#4-devolved-mortality-regulation)
+    - [§5. Supersession of Blizzard Hardcore realm ruleset](#5-supersession-of-blizzard-hardcore-realm-ruleset)
+  - [CHAPTER 2—GENERAL RULES](#chapter-2general-rules)
+    - [§101. Each character has only one life](#101-each-character-has-only-one-life)
+    - [§102. Add-on requirement](#102-add-on-requirement)
+    - [§103. Prohibited actions](#103-prohibited-actions)
+    - [§104. Duo and Trio modifications](#104-duo-and-trio-modifications)
+    - [§105. Attaining maximum level](#105-attaining-maximum-level)
+  - [CHAPTER 3—MORTALITY AT MAXIMUM LEVEL](#chapter-3mortality-at-maximum-level)
+    - [§201. Modifications](#201-modifications)
+    - [§202. Death Appeals](#202-death-appeals)
+  - [CHAPTER 4—GUILD TRANSFERS](#chapter-4guild-transfers)
 
 # Front Matter
 
@@ -1070,3 +1088,142 @@ No person shall be appointed to or employed in any office or duty in any court w
 
 ### §207. Administration of oaths and acknowledgments
 Each adjudicator of Honor and Valor may administer oaths and affirmations and take acknowledgments.
+
+# Title 11—Hardcore Challenge and Realm Mode
+
+## TITLE 11—Front Matter
+Title 11 of the Honor and Valor code entitled "Hardcore Challenge and Realm Mode" is codified into positive law and may be cited as '11 H. V. C., §--.'
+
+## CHAPTER 1—GENERAL PROVISIONS
+
+### §1. Duplicated and modified ruleset
+The original source of the rules with which Honor and Valor operates when hosting members performing the Classic WoW Hardcore community challenge is the [#hardcore-rules channel of the Classic Hardcore Discord](https://discord.com/channels/676996823537418262/677578394086408192).
+Because the rules have been translated into Honor and Valor code for the purpose of making them consistent with the rest of the guild's body of law, this means the ruleset has necessarily been modified.
+However, the goal of the drafters of this title is to ensure that valid play under the terms of the title necessarily constitutes valid play under the terms of the Classic WoW Hardcore community rules as they define them.
+
+Any substantive deviation from the Classic WoW Hardcore community rules from the provisions of this title brought about by subsequent changes of the former entitles members to request that the aforementioned changes are reviewed for potential integration into this title. This provision shall not apply to mortal regulations (those governing characters which have successfully attained maximum level, completing the challenge and validating their runs) due to the reasoning outlined in section 4 of this title.
+
+### §2. Onus of processing verifications
+The burden of processing verifications of members of Honor and Valor attempting the Hardcore challenge must necessarily remain with the Classic WoW Hardcore community itself, by whatever means it makes available through add-ons, websites, Discord servers, and/or other facilities.
+
+### §3. Guild representation and advocacy with the community
+Commanders are authorized under this provision to assist members of Honor and Valor with complying with Classic WoW Hardcore community regulations, provide guidance on pro forma submission of runs to be validated, and represent Honor and Valor with Classic WoW Hardcore community moderators as an advocate for guild members with prospectively valid challenge runs in extra-guild proceedings.
+However, this provision does not constitute a guarantee of representation or advocacy on Honor and Valor's part.
+Commanders shall not be compelled by law or legal order to function in this capacity against their wishes unless they are appointed, confirmed, and commissioned by the Marshal or his legal designee specifically for such purpose.
+
+### §4. Devolved mortality regulation
+Pursuant the below cited [Classic Hardcore Discord moderator announcement on the 26th of May in 2023](https://discord.com/channels/676996823537418262/682523765296463951/1111662961094819900):
+> As of today, we are no longer officially supporting **Era End Game Raiding Guilds**. This is due to the number of Raiding guilds that are now popping up, and our inability to ensure that every person is correctly following the Rules of THIS community once they have Verified their Run.
+>
+> Each Guild will be free to set whichever rules they wish. There is a new Forum Channel⁠ [💬hardcore-raiding-guilds](https://discord.com/channels/676996823537418262/1110271402700968017) were each Raiding guild may Display a single advert for their guild and answer any genuine questions within their own thread. These threads are to be used between those that wish to inquire about joining and the Guild Leader/Officer of said guild. **It will NOT be a place to cause drama between guilds.**
+>
+> It will be the responsibility of the Guild Leader and Officer team to ensure that THEIR Members are following the rules that they set, **The Mod team will NOT get involved in inter guild drama**, keep it to Guild Chat or Your Guilds Discord.
+>
+> Be aware that if different guilds follow different rules you **MAY** not be able to jump between them and each guild is free to designate to their members who they do and do not interact with.
+>
+> **Additionally We will No longer be appealing level 60 characters on THIS Discord**. It will be down to the Guild you are a part of to decide if they accept appeals and what guidelines they want to follow when it comes to THEIR Appeal process.
+
+Honor and Valor maintains its own:
+* regulations regarding the ruleset applied to mortal characters (see section 201 of this title);
+* process for appealing the deaths of mortal characters (see section 202 of this title);
+* list of the guilds from which it will accept the transfer of mortal characters (see Chapter 4 of this title); and,
+* to the best of its knowledge, guilds which reciprocally accept the transfer of mortal characters from Honor and Valor (see Chapter 4 of this title).
+
+### §5. Supersession of Blizzard Hardcore realm ruleset
+When Honor and Valor is operating on a Blizzard Hardcore realm (as opposed to when hosting members performing the Classic WoW Hardcore community challenge), all provisions of this title specifically implementing Classic WoW Hardcore community rules are superceded by the implicit ruleset as enforced by Blizzard's control of the realm.
+Members may continue to use the Classic WoW Hardcore community facilities as described in section 2, but will not be obligated to comply with any of the aforementioned automatically nullified provisions of this title.
+
+## CHAPTER 2—GENERAL RULES
+
+### §101. Each character has only one life
+Once your character dies, you are prohibited from resurrecting by any means, including but not limited to:
+* speaking with a Spirit Healer;
+* accepting a resurrection from another player; and,
+* reincarnating with a Soulstone or Shaman Reincarnation.
+
+You may elect to:
+* delete your character while it is in the guild to keep with community custom;
+* keep your character as a ghost and continue to interact in guild chat; or,
+* leave the guild.
+  
+Commanders are directed to immediately dismiss any character that is found in violation of this provision.
+
+### §102. Add-on requirement
+You must run the Hardcore add-on available from either [classichc.net](https://classichc.net/addon/) or [CurseForge](https://www.curseforge.com/wow/addons/hardcore) if your character is not immortal.
+
+This provision only applies when Honor and Valor is:
+* hosting members performing the Classic WoW Hardcore community challenge; and,
+* is not itself on a Blizzard Hardcore realm.
+
+Commanders are directed to immediately dismiss any character that is found in violation of this provision.
+
+### §103. Prohibited actions
+You must not:
+* group in the open world (except when traveling to and from dungeons in a valid group or completing dungeon quests);
+* use the auction house;
+* use the mailbox (except to retrieve mail from non-player characters);
+* trade items or services with other characters (except other members of a Duo or Trio as defined by section 104);
+* use your hearthstone or a teleportation ability other than Blink while under an immunity effect such as [Divine Shield](https://www.wowhead.com/classic/spell=1020/divine-shield) or [Light of Elune](https://www.wowhead.com/classic/spell=6724/light-of-elune);
+* request assistance from other players or enter combat while still accepting assistance from other players;
+* enter battlegrounds;
+* use items only available to players with a PvP rank;
+* use the Auto Unstuck feature;
+* obtain more than one instance ID per dungeon;
+* remain in a dungeon party with a character which you have reason to suspect is either not completing the Hardcore challenge or is not running the Hardcore add-on;
+* enter any of the following dungeons after their corresponding maximum levels:
+  * Ragefire Chasm: Maximum Level 18
+  * Wailing Caverns: Maximum Level 24
+  * The Deadmines: Maximum Level 26
+  * Shadowfang Keep: Maximum Level 30
+  * Blackfathom Deeps: Maximum Level 32
+  * Stockades: Maximum Level 32
+  * Razorfen Kraul: Maximum Level 38
+  * Gnomeregan: Maximum Level 38
+  * Scarlet Monastery: Maximum Level 45
+  * Razorfen Downs: Maximum Level 46
+  * Uldaman: Maximum Level 51
+  * Zul'Farrak: Maximum Level 54
+  * Maraudon: Maximum Level 55
+
+This provision only applies when Honor and Valor is:
+* hosting members performing the Classic WoW Hardcore community challenge; and,
+* is not itself on a Blizzard Hardcore realm.
+
+Commanders are directed to immediately dismiss any character that is found in violation of this provision.
+
+### §104. Duo and Trio modifications
+You may choose to play with one or two additional characters, and if so, you must:
+* successfully enter the same zone with one another before any character attains level 2;
+* remain logged on with one another at the same time; and,
+* stay in the same zone (except if you are a druid going to Moonglade to complete an essential class quest).
+
+You may not:
+* remain logged on when another member of your group has logged off; or,
+* continue your run when another member of your group has died.
+
+This provision only applies when Honor and Valor is:
+* hosting members performing the Classic WoW Hardcore community challenge; and,
+* is not itself on a Blizzard Hardcore realm.
+
+Commanders are directed to immediately dismiss any character that is found in violation of this provision.
+
+### §105. Attaining maximum level
+Once you attain maximum level on your character, you must decide to either:
+* enter immortality, i.e. to play your character as you otherwise would in Classic Era, not subject to Hardcore rules; or,
+* remain mortal, i.e. to continue playing with a modified Hardcore ruleset as defined by Chapter 3 of this title.
+
+Once either path has been chosen for a character, the member is prohibited from altering it.
+Commanders shall track which selection was made via the rank promotion triggered by section 2 of Title 6.
+
+## CHAPTER 3—MORTALITY AT MAXIMUM LEVEL
+
+### §201. Modifications
+Mortal characters at maximum level are still bound by provisions of Chapter 2 of this title, with the exceptions that you may:
+* group with other mortal characters at maximum level within the guild for any questing, farming, or dungeon and raid activities; and,
+* trade with other mortal characters at maximum level within the guild.
+
+### §202. Death Appeals
+TBD
+
+## CHAPTER 4—GUILD TRANSFERS
+TBD
