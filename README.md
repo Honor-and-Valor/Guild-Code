@@ -1126,7 +1126,7 @@ Pursuant to the below cited [Classic Hardcore Discord moderator announcement on 
 Honor and Valor maintains its own:
 * regulations regarding the ruleset applied to mortal characters (see section 201 of this title);
 * process for appealing the deaths of mortal characters (see section 202 of this title);
-* list of the guilds from which it will accept the transfer of mortal characters at maximum level (see Chapter 4 of this title); and,
+* list of the guilds from which it will accept the transfer of characters (see Chapter 4 of this title); and,
 * to the best of its knowledge, guilds which reciprocally accept the transfer of characters from Honor and Valor (see Chapter 4 of this title).
 
 ### §5. Supersession of Blizzard Hardcore realm ruleset
@@ -1138,7 +1138,7 @@ Members may continue to use the Classic WoW Hardcore community facilities as des
 ### §101. Each character has only one life
 Once your character dies, you are prohibited from resurrecting by any means, including but not limited to:
 * speaking with a Spirit Healer;
-* accepting a resurrection from another player; and,
+* accepting a resurrection from another player; or,
 * reincarnating with a Soulstone or Shaman Reincarnation.
 
 You may elect to:
