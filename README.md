@@ -1112,7 +1112,7 @@ However, this provision does not constitute a guarantee of representation or adv
 Commanders shall not be compelled by law or legal order to function in this capacity against their wishes unless they are appointed, confirmed, and commissioned by the Marshal or his legal designee specifically for such purpose.
 
 ### §4. Devolved mortality regulation
-Pursuant the below cited [Classic Hardcore Discord moderator announcement on the 26th of May in 2023](https://discord.com/channels/676996823537418262/682523765296463951/1111662961094819900):
+Pursuant to the below cited [Classic Hardcore Discord moderator announcement on the 26th of May in 2023](https://discord.com/channels/676996823537418262/682523765296463951/1111662961094819900):
 > As of today, we are no longer officially supporting **Era End Game Raiding Guilds**. This is due to the number of Raiding guilds that are now popping up, and our inability to ensure that every person is correctly following the Rules of THIS community once they have Verified their Run.
 >
 > Each Guild will be free to set whichever rules they wish. There is a new Forum Channel⁠ [💬hardcore-raiding-guilds](https://discord.com/channels/676996823537418262/1110271402700968017) were each Raiding guild may Display a single advert for their guild and answer any genuine questions within their own thread. These threads are to be used between those that wish to inquire about joining and the Guild Leader/Officer of said guild. **It will NOT be a place to cause drama between guilds.**
