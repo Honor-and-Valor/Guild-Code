@@ -1130,7 +1130,7 @@ Honor and Valor maintains its own:
 * to the best of its knowledge, guilds which reciprocally accept the transfer of characters from Honor and Valor (see Chapter 4 of this title).
 
 ### §5. Supersession of Blizzard Hardcore realm ruleset
-When Honor and Valor is operating on a Blizzard Hardcore realm (as opposed to when hosting members performing the Classic WoW Hardcore community challenge), all provisions of this title specifically implementing Classic WoW Hardcore community rules are superceded by the implicit ruleset as enforced by Blizzard's control of the realm.
+When Honor and Valor is operating on a Blizzard Hardcore realm (as opposed to when hosting members performing the Classic WoW Hardcore community challenge on a normal realm), all provisions of Chapters 2, 3, and 4 of this title are superceded by the implicit ruleset as enforced by Blizzard's control of the realm.
 Members may continue to use the Classic WoW Hardcore community facilities as described in section 2, but will not be obligated to comply with any of the aforementioned automatically nullified provisions of this title.
 
 ## CHAPTER 2—GENERAL RULES
@@ -1140,20 +1140,11 @@ Once your character dies, you are prohibited from resurrecting by any means, inc
 * speaking with a Spirit Healer;
 * accepting a resurrection from another player; or,
 * reincarnating with a Soulstone or Shaman Reincarnation.
-
-You may elect to:
-* delete your character while it is in the guild to keep with community custom;
-* keep your character as a ghost and continue to interact in guild chat; or,
-* leave the guild.
   
 Commanders are directed to immediately dismiss any character that is found in violation of this provision.
 
 ### §102. Add-on requirement
 You must run the Hardcore add-on available from either [classichc.net](https://classichc.net/addon/) or [CurseForge](https://www.curseforge.com/wow/addons/hardcore) if your character is not immortal.
-
-This provision only applies when Honor and Valor is:
-* hosting members performing the Classic WoW Hardcore community challenge; and,
-* is not itself on a Blizzard Hardcore realm.
 
 Commanders are directed to immediately dismiss any character that is found in violation of this provision.
 
@@ -1185,10 +1176,6 @@ You must not:
   * Zul'Farrak: Maximum Level 54
   * Maraudon: Maximum Level 55
 
-This provision only applies when Honor and Valor is:
-* hosting members performing the Classic WoW Hardcore community challenge; and,
-* is not itself on a Blizzard Hardcore realm.
-
 Commanders are directed to immediately dismiss any character that is found in violation of this provision.
 
 ### §104. Duo and Trio modifications
@@ -1200,10 +1187,6 @@ You may choose to play with one or two additional characters, and if so, you mus
 You may not:
 * remain logged on when another member of your group has logged off; or,
 * continue your run when another member of your group has died.
-
-This provision only applies when Honor and Valor is:
-* hosting members performing the Classic WoW Hardcore community challenge; and,
-* is not itself on a Blizzard Hardcore realm.
 
 Commanders are directed to immediately dismiss any character that is found in violation of this provision.
 
