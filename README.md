@@ -1185,6 +1185,7 @@ You may choose to play with one or two additional characters, and if so, you mus
 * stay in the same zone (except if you are a druid going to Moonglade to complete an essential class quest).
 
 You may not:
+* play as more than one character in the group by any means;
 * remain logged on when another member of your group has logged off; or,
 * continue your run when another member of your group has died.
 
