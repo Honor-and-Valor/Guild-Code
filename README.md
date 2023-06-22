@@ -172,6 +172,9 @@
     - [§201. Modifications](#201-modifications)
     - [§202. Death appeals](#202-death-appeals)
   - [CHAPTER 4—GUILD TRANSFERS](#chapter-4guild-transfers)
+    - [§301. General standard](#301-general-standard)
+    - [§302. Transfer process](#302-transfer-process)
+    - [§303. Current agreements with other guilds](#303-current-agreements-with-other-guilds)
 
 # Front Matter
 
@@ -1212,4 +1215,30 @@ Mortal characters at maximum level are still bound by provisions of Chapter 2 of
 TBD
 
 ## CHAPTER 4—GUILD TRANSFERS
-TBD
+
+### §301. General standard
+In general, Honor and Valor has an interest in accepting transfers from other Classic Hardcore guilds which observe regulations at least as strong as its own.
+Accepting transfers from Classic Hardcore guilds observing even more stringent regulations than Honor and Valor's is not at odds with that interest in principle, however, prospective new members of Honor and Valor transferring from such guilds have the responsibility of making themselves aware of how their transfers may not be reversible given their original guild's policies.
+
+This provision guides Honor and Valor's representatives in negotiation with other guilds concerning transfers and does not itself guarantee the possibility of any particular transfer.
+For such guarantees, see section 303 which enumerate the other Classic Hardcore guilds with which Honor and Valor has successfully negotiated.
+
+### §302. Transfer process
+If you wish to transfer to or from Honor and Valor:
+1. check section 303 to see if your origin or destination guild appears;
+   * if it does not, contact an Honor and Valor Commander and request that this guild is approached (and then be patient);
+   * if it does but the kind of transfer you want is not permitted, we apologize for the unfortunate circumstances;
+   * it it does and the kind of transfer you want is permitted, proceed to the next step;
+2. contact an Honor and Valor Commander and request the transfer;
+3. wait patiently as Honor and Valor exchanges required information with the other guild;
+4. move your character between realms and/or request a guild invite as necessary *only after you have been notified that your transfer is approved*.
+
+### §303. Current agreements with other guilds
+| Realm | Guild | Status | Representative | Last Change |
+|-------|-------|:------:|----------------|------------:|
+| Bloodsail Buccaneers | HC Elite | Unacquainted | *N/A* | *N/A*
+
+The list of possible stati is:
+
+Unacquianted
+: Neither guild has approached the other to begin negotiation.
