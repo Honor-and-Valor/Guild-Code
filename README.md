@@ -1232,7 +1232,7 @@ If you wish to transfer to or from Honor and Valor:
    * if it does but the kind of transfer you want is not permitted, we apologize for the unfortunate circumstances;
    * it it does and the kind of transfer you want is permitted, proceed to the next step;
 2. contact an Honor and Valor Commander and request the transfer;
-3. wait patiently as Honor and Valor exchanges required information with the other guild;
+3. wait patiently as Honor and Valor exchanges required information with the other guild; and,
 4. move your character between realms and/or request a guild invite as necessary *only after you have been notified that your transfer is approved*.
 
 ### §303. Current agreements with other guilds
