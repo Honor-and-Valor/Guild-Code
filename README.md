@@ -1239,6 +1239,9 @@ If you wish to transfer to or from Honor and Valor:
 | Bloodsail Buccaneers | HC Elite | Unacquainted | *N/A* | *N/A*
 
 The list of possible stati is:
-
-Unacquianted
-: Neither guild has approached the other to begin negotiation.
+* **Unacquianted**: while Honor and Valor is aware of the other guild's existence, neither guild has approached the other to begin negotiation;
+* **In Negotiation**: the guilds are currently ironing out the details of how transfers between them will work and in what directions they will be permitted;
+* **Unagreed**: one or both of the guilds chose not to negotiate an agreement for transfers;
+* **Origin Only**: members of the other guild may transfer to Honor and Valor;
+* **Destination Only**: members of Honor and Valor may transfer to the other guild; and
+* **Reciprocal**: members of the other guild may transfer to Honor and Valor *and* members of Honor and Valor may transfer to the other guild.
