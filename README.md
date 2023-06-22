@@ -1236,9 +1236,9 @@ If you wish to transfer to or from Honor and Valor:
 4. move your character between realms and/or request a guild invite as necessary *only after you have been notified that your transfer is approved*.
 
 ### §303. Current agreements with other guilds
-| Realm | Guild | Status | Representative | Last Change |
-|-------|-------|:------:|----------------|------------:|
-| Bloodsail Buccaneers | HC Elite | Unacquainted | *N/A* | *N/A*
+| Realm | Guild | Status | Last Change |
+|-------|-------|:------:|------------:|
+| Bloodsail Buccaneers | HC Elite | Unacquainted | *N/A*
 
 The list of possible stati is:
 * **Unacquianted**: while Honor and Valor is aware of the other guild's existence, neither guild has approached the other to begin negotiation;
