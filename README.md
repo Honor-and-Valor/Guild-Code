@@ -1202,6 +1202,8 @@ Commanders shall track which selection was made via the rank promotion triggered
 
 ### §201. Modifications
 Mortal characters at maximum level are still bound by provisions of Chapter 2 of this title, with the exceptions that you may:
+* obtain more than one instance ID per dungeon;
+* enter any dungeon regardless of its maximum level;
 * group with other mortal characters at maximum level within the guild for any questing, farming, or dungeon and raid activities; and,
 * trade with other mortal characters at maximum level within the guild.
 
