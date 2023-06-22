@@ -1222,13 +1222,12 @@ Accepting transfers from Classic Hardcore guilds observing even more stringent r
 
 In addition, Honor and Valor has an interest in permitting transfers of its own members to other guilds because permitting the free movement of characters between guilds to the greatest extent possible tends to favor domestic tranquility and inhibit drama.
 
-This provision guides Honor and Valor's representatives in negotiation with other guilds concerning transfers and does not itself guarantee the possibility of any particular transfer.
-For such guarantees, see section 303 which enumerate the other Classic Hardcore guilds with which Honor and Valor has successfully negotiated.
+This provision guides Honor and Valor's representatives in negotiation with other guilds concerning transfers and does not govern any individual transfer processes.
+If you are considering transfering to or from Honor and Valor and want to initiate the transfer process from Honor and Valor's side, familiarized yourself with that process as outlined by section 302.
 
 ### §302. Transfer process
-If you wish to transfer to or from Honor and Valor:
 1. check section 303 to see if your origin or destination guild appears;
-   * if it does not, contact an Honor and Valor Commander and request that this guild is approached (and then be patient);
+   * if it does not or has the Unacquianted status, contact an Honor and Valor Commander and request that this guild is approached (and then be patient);
    * if it does but the kind of transfer you want is not permitted, we apologize for the unfortunate circumstances;
    * it it does and the kind of transfer you want is permitted, proceed to the next step;
 2. contact an Honor and Valor Commander and request the transfer;
