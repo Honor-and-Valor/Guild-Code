@@ -100,12 +100,16 @@
     - [§5. Political, religious, commercial, and promotional activities](#5-political-religious-commercial-and-promotional-activities)
     - [§6. Breaking the chain that binds](#6-breaking-the-chain-that-binds)
     - [§7. Ignoring a Commander's instructions](#7-ignoring-a-commanders-instructions)
-  - [CHAPTER 2—CRIMES AGAINST HARDCORE PLAYERS](#chapter-2crimes-against-hardcore-players)
+  - [CHAPTER 2—OFFENSES AGAINST HARDCORE PLAYERS](#chapter-2offenses-against-hardcore-players)
     - [§101. Murder; Malice Murder; Statutory Murder](#101-murder-malice-murder-statutory-murder)
     - [§102. Voluntary Character Slaughter](#102-voluntary-character-slaughter)
     - [§103. Involuntary Character Slaughter](#103-involuntary-character-slaughter)
     - [§104. Use of Force in Duels to the Death and Defense of the Alliance](#104-use-of-force-in-duels-to-the-death-and-defense-of-the-alliance)
     - [§105. Immunity from Criminal Liability of Players Committing Offenses as the Direct Result of a Hardware or Software Defect](#105-immunity-from-criminal-liability-of-players-committing-offenses-as-the-direct-result-of-a-hardware-or-software-defect)
+  - [CHAPTER 3—OFFENSES IN FORMAL COMBAT](#chapter-3offenses-in-formal-combat)
+    - [§201. Desertion](#201-desertion)
+    - [§202. Away without Permission](#202-away-without-permission)
+    - [§203. Misbehavior before other guilds](#203-misbehavior-before-other-guilds)
 - [Title 5—Recruitment](#title-5recruitment)
   - [TITLE 5—Front Matter](#title-5front-matter)
 - [Title 6—Citizenship](#title-6citizenship)
@@ -113,7 +117,7 @@
   - [CHAPTER 1—PATHS TO CITIZENSHIP](#chapter-1paths-to-citizenship)
     - [§1. Raiding](#1-raiding)
     - [§2. Remaining Mortal at Maximum Level in Hardcore](#2-remaining-mortal-at-maximum-level-in-hardcore)
-  - [CHAPTER 2—LOSS OF CITIZENSHIP](#chapter-2loss-of-citizenship)
+  - [CHAPTER 3—LOSS OF CITIZENSHIP](#chapter-3loss-of-citizenship)
     - [§101. Renunciation of Citizenship](#101-renunciation-of-citizenship)
     - [§102. Loss of Citizenship](#102-loss-of-citizenship)
 - [Title 7—Raiding](#title-7raiding)
@@ -717,33 +721,50 @@ Where the Corps of Commanders determines that a member of the guild has violated
 ### §7. Ignoring a Commander's instructions
 If a Commander gives an instruction based on a declaration of the Marshal or this code, failure to follow the instruction is a violation which may carry the penalty of immediate dismissal.
 
-## CHAPTER 2—CRIMES AGAINST HARDCORE PLAYERS
+## CHAPTER 2—OFFENSES AGAINST HARDCORE PLAYERS
 
 ### §101. Murder; Malice Murder; Statutory Murder
-
 1. A player commits the offense of murder when he unlawfully and with malice aforethought, either express or implied, causes the death of another player's hardcore character.
 2. Express malice is that deliberate intention unlawfully to take the life of another player's hardcore character which is manifested by external circumstances capable of proof. Malice shall be implied where no considerable provocation appears and where all the circumstances of the killing show an abandoned and malignant heart.
 3. A player commits the offense of murder when, in the commission of another criminal act, he or she causes the death of another player's hardcore character irrespective of malice.
 4. A player convicted of the offense of murder shall be punished by permanent dismissal from the guild, or execution of the character with which the offense was committed.
 
 ### §102. Voluntary Character Slaughter
-
 1. A player commits the offense of voluntary character slaughter when he causes the death of another player's hardcore character under circumstances which would otherwise be murder and if he acts solely as the result of a sudden, violent, and irresistible passion resulting from serious provocation sufficient to excite such passion in a reasonable person; however, if there should have been an interval between the provocation and the killing sufficient for the voice of reason and humanity to be heard, the killing shall be attributed to deliberate revenge and be punished as murder.
 2. A player who commits the offense of voluntary character slaughter, upon conviction thereof, shall be punished by suspension from the guild for not less than six weeks nor more than one year.
 
 ### §103. Involuntary Character Slaughter
-
 1. A player commits the offense of involuntary character slaughter in the commission of an unlawful act when he causes the death of another player's hardcore character without any intention to do so by the commission of a minor unlawful act. A person who commits the offense of involuntary character slaughter in the commission of an unlawful act, upon conviction thereof, shall be punished by suspension from the guild for not less than six weeks nor more than six months.
 2. A player commits the offense of involuntary character slaughter in the commission of a lawful act in an unlawful manner when he causes the death of another player's hardcore character without any intention to do so, by the commission of a lawful act in an unlawful manner likely to cause death. A player who commits the offense of involuntary character slaughter in the commission of a lawful act in an unlawful manner, upon conviction thereof, shall be punished with a fine of gold or suspension not more than two weeks.
 
 ### §104. Use of Force in Duels to the Death and Defense of the Alliance
-
 A player is justified in threatening or using force against another's hardcore character when engaged in a duel to the death or in player versus player activity; however, such player is justified in the use of force which is intended or likely to cause death of another's hardcore character only if the player has no cause to reasonably believe the opposing player has engaged with them involuntarily.
 
 ### §105. Immunity from Criminal Liability of Players Committing Offenses as the Direct Result of a Hardware or Software Defect
-
 1. Any player playing fairly and honorably who is nevertheless hindered in a manner or caused to take an action leading to the death of another's hardcore character by a defect for which convincing evidence or admission by the vendor of the applicable hardware or software is presented shall be immune from any criminal liability that might otherwise be incurred or imposed as a result.
 2. The purpose of this Code section is to provide for those players who act in good faith to represent the guild of Honor and Valor with distinction. This Code section shall be liberally construed so as to carry out the purposes thereof.
+
+## CHAPTER 3—OFFENSES IN FORMAL COMBAT
+
+### §201. Desertion
+Any member of the guild who uses an ability (e.g. [Vanish](https://www.wowhead.com/classic/spell=1857/vanish), [Feign Death](https://www.wowhead.com/classic/spell=5384/feign-death)) or item (e.g. [Hearthstone](https://www.wowhead.com/classic/item=6948/hearthstone), [Flask of Petrification](https://www.wowhead.com/classic/item=13506/flask-of-petrification)) to flee combat with intent to evade the possible failure of the engagement and without consent from the leader of the party or raid in which the member was joined when combat began is guilty of desertion.
+
+Any person found guilty of desertion or attempt to desert shall be punished by lifetime dismissal from the guild or such other punishment as an adjudicator may direct.
+
+### §202. Away without Permission
+Any member of the guild who becomes unresponsive for reasons other than force majeure (e.g. inclement weather affecting Internet connectivity) without consent from the leader of the party or raid in which the member was joined before becoming unresponsive shall be punished as an adjudicator may direct.
+
+### §203. Misbehavior before other guilds
+Any member of the guild who before in the presence of other guilds—
+* shamefully abandons any duty he has agreed to undertake;
+* through disobedience, neglect, or intentional misconfuct endangers the safety of any fellow members of a party or raid;
+* is guilty of cowardly conduct (Conduct is “cowardly” only if it amounts to misbehavior which was motivated by fear. A mere display of apprehension is not sufficient.);
+* quits his duty in quest of any personal gain (e.g. to loot, to turn in a quest);
+* causes false alarms in any party or raid;
+* willfully fails to do his utmost to achieve the objective of the party or raid; or,
+* does not afford all practicable relief and assistance to any fellow members of a party or raid when engaged in battle;
+
+shall be punished as an adjudicator may direct.
 
 # Title 5—Recruitment
 
@@ -767,7 +788,7 @@ The Citizen rank will be granted to those either having:
 * completed the Hardcore Community Challenge, verified their run, and chosen to remain mortal; or,
 * attained maximum level on a Blizzard Hardcore realm.
 
-## CHAPTER 2—LOSS OF CITIZENSHIP
+## CHAPTER 3—LOSS OF CITIZENSHIP
 
 ### §101. Renunciation of Citizenship
 Those having attained the rank of Citizen that voluntarily choose to give up their citizenship will be demoted to Civilian.
