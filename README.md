@@ -109,7 +109,7 @@
   - [CHAPTER 3—OFFENSES IN FORMAL COMBAT](#chapter-3offenses-in-formal-combat)
     - [§201. Desertion](#201-desertion)
     - [§202. Away without Permission](#202-away-without-permission)
-    - [§203. Misbehavior before other guilds](#203-misbehavior-before-other-guilds)
+    - [§203. Misbehavior before Other Guilds](#203-misbehavior-before-other-guilds)
 - [Title 5—Recruitment](#title-5recruitment)
   - [TITLE 5—Front Matter](#title-5front-matter)
 - [Title 6—Citizenship](#title-6citizenship)
@@ -754,8 +754,8 @@ Any person found guilty of desertion or attempt to desert shall be punished by l
 ### §202. Away without Permission
 Any member of the guild who becomes unresponsive for reasons other than force majeure (e.g. inclement weather affecting Internet connectivity) without consent from the leader of the party or raid in which the member was joined before becoming unresponsive shall be punished as an adjudicator may direct.
 
-### §203. Misbehavior before other guilds
-Any member of the guild who before in the presence of other guilds—
+### §203. Misbehavior before Other Guilds
+Any member of the guild who in the presence of other guilds—
 * shamefully abandons any duty he has agreed to undertake;
 * through disobedience, neglect, or intentional misconfuct endangers the safety of any fellow members of a party or raid;
 * is guilty of cowardly conduct (Conduct is “cowardly” only if it amounts to misbehavior which was motivated by fear. A mere display of apprehension is not sufficient.);
