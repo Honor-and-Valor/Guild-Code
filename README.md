@@ -747,7 +747,7 @@ A player is justified in threatening or using force against another's hardcore c
 ## CHAPTER 3—OFFENSES IN FORMAL COMBAT
 
 ### §201. Desertion
-Any member of the guild who uses an ability (e.g. [Vanish](https://www.wowhead.com/classic/spell=1857/vanish), [Feign Death](https://www.wowhead.com/classic/spell=5384/feign-death)) or item (e.g. [Hearthstone](https://www.wowhead.com/classic/item=6948/hearthstone), [Flask of Petrification](https://www.wowhead.com/classic/item=13506/flask-of-petrification)) to flee combat with intent to evade the possible failure of the engagement and without consent from the leader of the party or raid in which the member was joined when combat began is guilty of desertion.
+Any member of the guild who uses an ability (e.g. [Vanish](https://www.wowhead.com/classic/spell=1857/vanish), [Feign Death](https://www.wowhead.com/classic/spell=5384/feign-death)) or item (e.g. [Hearthstone](https://www.wowhead.com/classic/item=6948/hearthstone), [Flask of Petrification](https://www.wowhead.com/classic/item=13506/flask-of-petrification)) to flee combat with intent to evade the possible failure of the engagement and without consent from the leader of the party or raid in which the member was joined when combat began and prior to when a reasonable and knowledgable combatant would conclude the remaning in combat is futile is guilty of desertion.
 
 Any person found guilty of desertion or attempt to desert shall be punished by lifetime dismissal from the guild or such other punishment as an adjudicator may direct.
 
@@ -757,9 +757,9 @@ Any member of the guild who becomes unresponsive for reasons other than force ma
 ### §203. Misbehavior before Other Guilds
 Any member of the guild who in the presence of other guilds—
 * shamefully abandons any duty he has agreed to undertake;
-* through disobedience, neglect, or intentional misconfuct endangers the safety of any fellow members of a party or raid;
+* through disobedience, neglect, or intentional misconduct endangers the safety of any fellow members of a party or raid;
 * is guilty of cowardly conduct (Conduct is “cowardly” only if it amounts to misbehavior which was motivated by fear. A mere display of apprehension is not sufficient.);
-* quits his duty in quest of any personal gain (e.g. to loot, to turn in a quest);
+* quits his duty for any personal gain (e.g. to loot, to turn in a quest);
 * causes false alarms in any party or raid;
 * willfully fails to do his utmost to achieve the objective of the party or raid; or,
 * does not afford all practicable relief and assistance to any fellow members of a party or raid when engaged in battle;
