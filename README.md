@@ -123,8 +123,7 @@
 - [Title 7—Raiding](#title-7raiding)
   - [TITLE 7—Front Matter](#title-7front-matter)
   - [CHAPTER 1—LOOT SYSTEM](#chapter-1loot-system)
-    - [§1. Selection](#1-selection)
-    - [§2. Process](#2-process)
+    - [§1. Process](#1-process)
   - [CHAPTER 2—PROGRESSION](#chapter-2progression)
     - [§101. Progression instances](#101-progression-instances)
     - [§102. Required consumables](#102-required-consumables)
@@ -808,20 +807,12 @@ Title 7 of the Honor and Valor code entitled "Raiding" is codified into positive
 
 ## CHAPTER 1—LOOT SYSTEM
 
-### §1. Selection
-When an encounter or instance is declared as progression under the terms of section 101, the Commander-in-chief or his designee shall post a link to the softres.it web site for that encounter or instance and pin it in a channel in Discord specifically created for auditing progression loot.
-This channel shall be visible to all members of the guild, although only those having the Commander rank or higher will be able to post in it.
-The raid date on softres.it shall not be set so that members may denote and later revise what loot they are seeking from that encounter or instance.
-
-Creating a reservation entry on the appropriate softres.it link for the raid is optional.
-When a raid member's selections are required by the process in section 2 but they have not created a reservation entry, the best-in-slot items for the raid member's specialization in the content phase containing the encounter as determined by a published class guide excepting what items the raid member already has shall stand in substitution.
-
-### §2. Process
+### §1. Process
 1. Only guild raids for encounters or instances that the House has resolved to be progression raids are governed by the loot system.
-2. Guild raids are master looted with a loot quality threshold of epic.
+2. Guild raids are master looted with a loot quality threshold of uncommon.
 3. For each raid, the raid leader shall designate at least three persons in the guild, potentially including himself, to serve as the raid's loot council. The master looter shall be a member of the loot council.
-4. When a drop containing items that bind when picked-up occurs, the raid's loot council shall review the softres.it raid or the loot council's chosen guide information to determine which members of the raid are interested in the item and the audit log of items thus far distributed, and deliberate upon whom shall receive it. The raid leader may direct the master looter to loot items to himself in order that they may be traded to the designated recipient later should he feel raiding efficiency will benefit from it.
-5. When the loot council arrives at a majority opinion regarding a particular item, the item will be distributed to the member selected, the softres.it raid will be amended to strike the item from that raid member's desired items, and the distribution will be transcribed in the audit log.
+4. When a drop containing items that bind when picked-up occurs, the raid's loot council shall determine which members of the raid are interested in the item and deliberate upon whom shall receive it. The raid leader may direct the master looter to loot items to himself in order that they may be traded to the designated recipient later should he feel raiding efficiency will benefit from it.
+5. When the loot council arrives at a majority opinion regarding a particular item, the item will be distributed to the member selected.
 
 ## CHAPTER 2—PROGRESSION
 
@@ -836,6 +827,8 @@ When a raid member's selections are required by the process in section 2 but the
     * The Eye of Eternity (25) (resolved 13 Aug, 2022)
     * Vault of Archavon (25) (resolved 13 Aug, 2022)
     * Ulduar (25) (resolved 15 Jan, 2023)
+    * Blackfathom Deeps (Season of Discovery) (resolved 22 Dec, 2023)
+    * Gnomeregan (Season of Discovery) (resolved 22 Dec, 2023)
 3. The House has resolved that the following instances are no longer progression raids:
     * Karazhan (resolved 18 Jul, 2021)
     * Gruul's Lair (resolved 28 Apr, 2022)
@@ -843,6 +836,8 @@ When a raid member's selections are required by the process in section 2 but the
     * Naxxramas (Wrath of the Lich King, 25) (resolved 15 Jan, 2023)
     * The Obsidian Sanctum (25) (resolved 15 Jan, 2023)
     * The Eye of Eternity (25) (resolved 15 Jan, 2023)
+    * Vault of Archavon (25) (resolved 22 Dec, 2023)
+    * Ulduar (25) (resolved 22 Dec, 2023)
 
 ### §102. Required consumables
 All guild members shall be required to procure, to bring to, and to use the following consumable items as needed in each progression raid:
