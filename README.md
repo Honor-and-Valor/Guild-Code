@@ -143,6 +143,8 @@
     - [§102. Guild bank configuration](#102-guild-bank-configuration)
     - [§103. Contributions](#103-contributions)
     - [$104. Capital conversion](#104-capital-conversion)
+  - [CHAPTER 3—IN LIEU OF BLIZZARD FUNCTIONALITY](#chapter-3in-lieu-of-blizzard-functionality)
+    - [§301. Delegate character storage](#301-delegate-character-storage)
 - [Title 9—The Discord Server](#title-9the-discord-server)
   - [TITLE 9—Front Matter](#title-9front-matter)
 - [Title 10—Judiciary and Judicial Procedure](#title-10judiciary-and-judicial-procedure)
@@ -517,7 +519,7 @@ There is hereby established by and for the House the following code of conduct, 
 
 ### §301. Causes
 The Marshal may determine that a legislative organ is not necessary or desired by the guild at a given time.
-In accordance with the group delegation clause in Article III of the Litany of Honor and Valor, The House shall be suspended when the Marshal makes this determination.
+In accordance with the group delegation clause in Article III of the Litany of Honor and Valor, the House shall be suspended when the Marshal makes this determination.
 
 ### §302. Entering suspension
 When the Marshal suspends the House, he shall communicate to the House that it is suspended, citing Article III of the Litany of Honor and Valor.
@@ -838,6 +840,8 @@ Title 7 of the Honor and Valor code entitled "Raiding" is codified into positive
     * The Eye of Eternity (25) (resolved 15 Jan, 2023)
     * Vault of Archavon (25) (resolved 22 Dec, 2023)
     * Ulduar (25) (resolved 22 Dec, 2023)
+    * Blackfathom Deeps (Season of Discovery) (resolved 7 Jul, 2026)
+    * Gnomeregan (Season of Discovery) (resolved 7 Jul, 2026)
 
 ### §102. Required consumables
 All guild members shall be required to procure, to bring to, and to use the following consumable items as needed in each progression raid:
@@ -1034,6 +1038,12 @@ The guild bankers shall determine which items the guild is seeking for deposit a
    * the materials resulting from disenchantment; or,
    * the profit of sale (excluding the fee) at the auction house.
 2. The guild bankers shall incorporate planning of which items in stock may be desirable to guild members currently or in the future and conscientiously attempt to maintain supplies instead of converting them when it is reasonable to do so. They shall not have items converted into enchanting materials when their fair market value exceeds the fair market value of the enchanting materials they will most likely yield according to Wowhead. They shall be permitted to expense from the guild bank's gold treasury the auction house deposit costs of items that are not successully sold at auction.
+
+## CHAPTER 3—IN LIEU OF BLIZZARD FUNCTIONALITY
+
+### §301. Delegate character storage
+When the game does not have an inherent, operable guild bank system, the Marshal shall appoint a specific character which shall retain all items and gold held by the guild.
+This owner of this account shall regularly log in to this character to process deposits and withdrawal requests sent to its mailbox.
 
 # Title 9—The Discord Server
 
