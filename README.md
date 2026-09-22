@@ -287,5 +287,5 @@ They may convert stock at their discretion by selling BoEs or used items and dep
 - auction-house profit after the fee.
 
 They should keep stores members will actually use.
-They must not shatter an item when Wowhead says its market value beats the likely shard value.
+They must not shatter an item when its market value beats the likely shard value.
 Auction-house deposits on unsold listings may come out of guild gold.
